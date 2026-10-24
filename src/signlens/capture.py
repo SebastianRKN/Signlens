@@ -90,7 +90,9 @@ def probe_all(cfg: Config, seconds: float = 0.7) -> list[Probe]:
 
 
 def _cache_path(cfg: Config) -> Path:
-    return Path(cfg.models_dir) / f"camera_{cfg.camera_index}.json"
+    models = Path(cfg.models_dir)
+    root = models.parent if models.name == "models" else models
+    return root / "config" / f"camera_{cfg.camera_index}.json"
 
 
 def open_camera(cfg: Config, reprobe: bool = False, accept_ratio: float = 0.85):

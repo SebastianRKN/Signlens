@@ -263,7 +263,8 @@ class Runtime:
                 self.toggle_capture()
             except Exception as exc:
                 # Persist the buffered data to a recovery location if the regular save failed.
-                recovery = self.data.parent / "reports" / "capture_recovery"
+                from signlens.reporting import report_run
+                recovery = report_run("capture_recovery", root=self.data.parent)
                 self.capture.root = recovery
                 self.capture.toggle()
                 print(f"[signlens] Captura recuperada en {recovery}: {exc}", flush=True)

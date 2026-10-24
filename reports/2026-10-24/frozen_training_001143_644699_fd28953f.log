@@ -1,0 +1,17 @@
+Training run 20261024_001059_e3e6b90c
+SignLens: datos y reportes en USER_HOME\AppData\Local\Temp\SignLens training check 9qksn5oq
+scope=letters: 72 samples | 2 classes | 48 photos | 6 sessions | signers ['dataset']
+
+candidate                                  accuracy  macro-F1  acc@50%cov   (class-session holdout, 3 seeds)
+previous: oriented + SVM C=10          0.597 ±0.041     0.594
+oriented_eng + ensemble                0.630 ±0.024     0.627       0.704   (3s)
+
+selected: ensemble
+  optimistic (photo-grouped): 0.653   <- inflated by same-session neighbours
+  strict (session-grouped)  : 0.597   <- pessimistic: classes live in only 2-4 sessions
+
+abstention threshold 0.91 (target unreachable -> top-40% fallback): accepts 40% of frames, 68% correct among accepted
+weakest classes: [('A', 0.63), ('B', 0.63)]
+most confused (true -> predicted): [('B', 'A', 40), ('A', 'B', 40)]
+
+saved USER_HOME\AppData\Local\Temp\SignLens training check 9qksn5oq\models\runs\20261024_001059_e3e6b90c\sign_classifier.joblib and evaluation.json

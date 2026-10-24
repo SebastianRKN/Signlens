@@ -1,138 +1,80 @@
-> Entrenamiento local integrado: ver RESULTADOS.md. Abrir con ABRIR_APP.cmd. Modelo experimental de letras, no traductor validado.
+# SignLens
 
-**Entrega actual, 23 de octubre:** consulta `LEEME_ENTREGA.md`. Borrado estable con Retroceso; el gesto es experimental y se activa expresamente con G. La suite actual tiene 79 pruebas aprobadas.
+Prototipo local de visión por computadora para reconocer letras estáticas con una cámara y convertir el deletreo en subtítulos. Busca explorar una interfaz accesible de entrada de texto mediante señas. No constituye un intérprete ni un traductor completo de lengua de señas ecuatoriana.
 
-## Interfaz actual: subtítulos automáticos — 21 de octubre
+## Descargar la aplicación para Windows
 
-Abre `ABRIR_APP.cmd` y empieza a hacer letras: **ambas manos escriben automáticamente**.
-No hay botones, selector de mano de escritura ni activación manual. El texto se muestra abajo,
-como subtítulos sobre la cámara. Las letras se ordenan por confirmación; en un empate del mismo
-fotograma, izquierda y luego derecha. Mantener una seña no la repite continuamente.
+[Descargar SignLens_CONCURSO_COMPLETO.zip](https://github.com/SebastianRKN/Signlens/releases/download/v0.1.0-concurso-2026-10-24/SignLens_CONCURSO_COMPLETO.zip)
 
-Retira ambas manos **1,4 segundos** para separar palabras. Para repetir la misma letra con una mano,
-retírala **0,6 segundos** y vuelve a mostrarla. Retroceso borra, Ctrl+Z deshace y Ctrl+S guarda el texto.
-`?` abre la ayuda. `Tab` muestra las herramientas de datos, que ahora se manejan con teclado.
-Consulta `SUBTITULOS_OCT21.md` para las reglas y el alcance, y `PLAN_LETRAS_CON_MOVIMIENTO.md` para el trabajo temporal pendiente.
+El ZIP contiene el ejecutable Windows, sus dependencias y el proyecto completo. El código de esta versión está directamente en la raíz del repositorio. Los binarios compilados se distribuyen en [Releases](https://github.com/SebastianRKN/Signlens/releases).
 
-## Dos manos simultáneas — 21 de octubre
+## Entrega
 
-La app reconoce ambas manos a la vez y muestra resultados separados para **IZQUIERDA** y **DERECHA**.
-Cada mano puede mostrar una letra distinta y tiene su propia confirmación temporal. Al retirar una mano,
-solo se limpia su resultado. No hace falta alternar con H para reconocerlas.
+El jurado abre `EJECUTABLE_WINDOWS/SignLens.exe` dentro del ZIP descargado; no necesita Python ni Internet. Extraer toda la distribución. Ver [INSTRUCCIONES_CONCURSO.md](INSTRUCCIONES_CONCURSO.md).
 
-**H, dentro de DATOS**, selecciona únicamente qué mano se guarda durante una captura etiquetada. La otra
-mano continúa reconociéndose. Una toma tiene una sola etiqueta: no se mezclan las muestras de las dos manos.
-Durante una toma reservada se oculta solo el resultado de la mano grabada. Ambas usan por defecto las
-23 letras y el umbral original del modelo. Ver `DOS_MANOS_OCT21.md`.
+## Arquitectura y capacidades
 
-## Corrección de reconocimiento — 20 de octubre
+Cámara OpenCV → landmarks de manos y pose MediaPipe → características geométricas → clasificador scikit-learn → estabilización independiente de ambas manos → composición de subtítulos. Se conservan el modelo original, umbrales, funciones de características y lógica de reconocimiento del ZIP recibido.
 
-Al iniciar se usa **COMPLETO**: las 23 letras y el umbral guardado en el modelo (actualmente 0,56).
-Dentro de DATOS, `D` activa de forma opcional **DEMO LIMITADO (10)**, que aplica restricciones adicionales; vuelve a pulsar
-`D` para regresar a COMPLETO. `V` elige si una captura se guarda para entrenar o para evaluar. Elegir
-EVALUAR no oculta las predicciones mientras observas la cámara: solo se ocultan durante la toma reservada.
-`H` cambia la mano seleccionada para grabar muestras; el reconocimiento procesa ambas manos.
-Los controles actuales son atajos de teclado. Consulta `CORRECCION_RECONOCIMIENTO_OCT20.md` para las verificaciones históricas.
+- Seguimiento de manos/brazos y reconocimiento simultáneo de ambas manos.
+- 23 clases del modelo: A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, T, U, W, X, Y.
+- Texto automático, separación de palabras, edición y guardado.
+- Captura de landmarks; separación entre entrenamiento y evaluación reservada.
+- Entrenamiento cancelable en otro proceso y publicación atómica del modelo verificado.
+- Diagnóstico local, evaluación, medición de cámara y recuperación de errores.
+- Borrado gestual experimental, desactivado por defecto; G lo habilita.
 
-# signlens
+Los FPS de captura y procesamiento son medidas diferentes. Las métricas históricas de validación cruzada dependen de las sesiones del dataset; no certifican precisión con nuevos participantes. No existen tomas reservadas independientes en el ZIP original. No se agrega reconocimiento temporal, síntesis de voz ni otras funciones de versiones posteriores al ZIP fuente.
 
-Pipeline de tracking de manos y brazos en tiempo real, base para un traductor de lenguaje de señas.
+## Organización
 
-## Uso
-```bash
-python -m venv .venv && source .venv/bin/activate
-pip install -e ".[dev]"
-python -m signlens                    # visualizar tracking
-python -m signlens --label hola       # grabar dataset (ESPACIO inicia/detiene, q sale)
-python -m signlens --benchmark 10     # medir FPS y latencia sin ventana
-pytest
-```
-Los modelos de MediaPipe se descargan solos la primera vez a `~/.signlens/models`.
-
-### Interfaz de captura y entrenamiento
-Al abrir con `ABRIR_APP.cmd`, pulsa `Tab` para las herramientas de datos. Allí puedes cambiar la letra, iniciar/detener
-la captura, entrenar el modelo y elegir qué mano grabar. Funcionan `L` (letra), `C` o `Espacio`
-(captura), `T` (entrenar), `H` (mano a grabar) y `Q` (salir). La cámara permanece activa durante el entrenamiento.
-Las capturas se guardan bajo `data/static`; al completar el entrenamiento se recarga el modelo y se deja
-`training.log` junto al proyecto. El entrenamiento combina el dataset incluido con tus capturas y puede
-tardar bastante cuando hay muchos ejemplos; deja abierta la app mientras corre y espera el mensaje final.
-Graba cada letra en sesiones distintas y con variedad de luz y fondo. La evaluación mostrada sigue
-siendo por sesiones del conjunto, no una validación independiente por persona.
-Para preparar otro equipo con Windows, instala Python 3.12 y ejecuta `INSTALAR_DEPENDENCIAS.cmd` una vez.
-
-## Clasificador de letras (formas estaticas)
-```bash
-pip install -e ".[ml]"
-python -m signlens.dataset path/al/dataset_yolov8 -o models/landmarks.npz   # imagenes -> landmarks MediaPipe
-python -m signlens.train models/landmarks.npz --out models                  # evaluacion por sesiones + modelo final
-python -m signlens.train models/landmarks.npz --scope all --out models      # las 33 clases (experimental)
-python run_local.py                                                         # reconocimiento en vivo
-```
-**Por que la evaluacion es por sesiones.** Las ~600 fotos originales vienen de solo ~17-27 sesiones de captura
-(mismo lugar, misma persona, segundos de diferencia) y cada foto trae ~3 copias aumentadas. Separar por foto deja
-vecinos casi identicos a ambos lados y da cifras enganosas (~87 %). `signlens.train` usa *class-session holdout*:
-cada clase se prueba solo en sesiones que no vio al entrenar (`splits.py`, con test anti-fuga). Es la cifra a citar.
-
-**Mejoras de modelo.** (1) 42 descriptores invariantes (angulos de flexion, distancias entre puntas, apertura entre
-dedos) anadidos a las coordenadas orientadas; (2) aumento solo en entrenamiento: espejo, rotaciones 3D pequenas y
-ruido de landmarks; (3) ensamble SVM+MLP+LogReg; (4) umbral de abstencion calibrado con predicciones fuera de muestra.
-El modelo actual se reentreno con tus capturas el 18 de octubre: 70 % de exactitud y macro-F1 0,627 en class-session
-holdout sobre el conjunto combinado. La evaluación no demuestra generalización a personas nuevas. Ver `RESULTADOS.md`.
-
-**Anade tus propias capturas** (lo que mas mejora el modelo):
-```bash
-python run_local.py --collect A --signer tunombre      # ESPACIO inicia/detiene, H cambia de mano, Q sale
-python -m signlens.train models/landmarks.npz --extra data/static --out models
-```
-Graba cada letra en varias sesiones (otro dia, luz y fondo); el reporte incluye la transferencia
-"dataset -> tus capturas".
-
-Dataset: ver `DATASET_LICENSE.txt` (CC BY 4.0, Roboflow Universe).
-
-## Camara y FPS
-```bash
-python -m signlens --probe-camera     # tabla con los FPS REALES de cada backend/modo
-python -m signlens --benchmark 10     # FPS de la camara vs. del pipeline, frames descartados, latencia p95
-```
-Los drivers informan lo que se les pidio, no lo que entregan: en Windows el backend por defecto (Media Foundation)
-suele ignorar MJPG/60 FPS y corre a 30. `capture.py` mide cada backend/modo, elige el mas rapido y guarda el
-resultado en cache. Sin mano a la vista, el detector de palma corre cada 2 frames; la pose asincrona vieja (>250 ms)
-se descarta.
-
-## Arquitectura
-```
-Camera (hilo, MJPG 60fps) -> Tracker [manos: hilo principal | pose: hilo async] -> FrameResult -> features.extract -> vector (147,) -> [Recorder | futuro modelo]
-                    |                                                  
-              OneEuroFilter                       viz.draw (solo render)
-```
-| Módulo | Responsabilidad |
+| Ruta | Contenido |
 |---|---|
-| `capture` | Hilo de lectura + sondeo de FPS reales por backend/modo con caché |
-| `tracker` | Único módulo que conoce MediaPipe: 2 manos (21 pts + landmarks 3D métricos) + pose (brazos) |
-| `hands` | Identidad izq/der anclada al brazo, rechazo de outliers, retención en pérdidas cortas, suavizado (numpy puro, testeado) |
-| `smoothing` | One Euro Filter: sin jitter en reposo, sin lag al mover rápido |
-| `features` | Vector (147) con forma de la mano en 3D métrico + ubicación respecto al cuerpo |
-| `splits` | Sesiones de captura y particiones sin fuga para evaluar |
-| `train` | Entrenamiento y evaluación honesta de letras estáticas |
-| `recorder` | Dataset `.npz` con `x (T, 147)` y `feature_version` etiquetado, listo para entrenar |
-| `types`/`config` | Contratos de datos y configuración inmutable |
+| `src/signlens` | Aplicación, seguimiento, composición, entrenamiento, rutas y reportes |
+| `models` | Modelos .task/.joblib originales y landmarks de entrenamiento |
+| `data` | Capturas originales y respaldo de metadatos |
+| `tests` | Pruebas originales y regresiones de portabilidad |
+| `reports/AAAA-MM-DD` | Reportes, evaluaciones, matrices, logs y evidencia fechada |
+| `reports/sin_fecha` | Historial sin fecha comprobable |
+| `experiments/legacy_v1` | Método anterior conservado para reproducibilidad; aislado del modelo activo |
+| `THIRD_PARTY_LICENSES` | Licencias extraídas de dependencias y su inventario |
+| `SignLens.spec`, `build_windows.py` | Compilación reproducible para Windows |
 
-Como solo `tracker.py` importa MediaPipe, puedes cambiar de backend sin tocar el resto.
+`reporting.py` centraliza los reportes con fecha de Ecuador (UTC-5), hora y sufijo único. Los resultados de una corrida de entrenamiento comparten una subcarpeta única. `report_manifest.json` vincula cada nuevo modelo con su evaluación sin duplicarla en models. La migración histórica y sus criterios están en `reports/2026-10-23/migration_original.json`. Las rutas personales de los informes distribuidos se anonimizan; no son rutas utilizadas por la aplicación.
 
-## Roadmap
-1. **Dataset**: grabar 50+ repeticiones por seña, con varias personas e iluminaciones.
-2. **Modelo**: ventana deslizante de ~30 frames -> clasificador (BiGRU o Transformer pequeño) con PyTorch.
-3. **Inferencia**: exportar a ONNX, decodificación con umbral de confianza y estabilización temporal.
-4. **Gramática**: añadir landmarks faciales (las expresiones son parte de la seña) y un modelo de secuencia a texto.
-5. **Despliegue**: API con FastAPI/WebSocket o versión web con MediaPipe JS.
-6. **Evaluación**: accuracy por seña, matriz de confusión, latencia p95 y FPS reportados en el README.
+## Desarrollo desde código
 
-## Decisiones de diseño
-- Vector de features normalizado respecto a la muñeca/hombros: el modelo aprende la forma y movimiento de la seña, no dónde estás parado.
-- Lados izquierda/derecha por posición en pantalla (`skeleton.py`), no por la etiqueta del modelo: no depende del espejo.
-- Rendimiento: pose ligero en hilo propio, inferencia a 640px, captura MJPG. El FPS no puede superar el de la cámara.
-- Tracking de manos robusto (`hands.py`): la etiqueta Left/Right de MediaPipe es solo un prior suave; manda la posición de la muñeca del brazo. Saltos o cambios de tamaño imposibles se rechazan y las pérdidas de hasta 4 frames se retienen (se dibujan en gris).
-- Forma de la mano con landmarks mundiales (metros), no con coordenadas de imagen: invariante a distancia y tamaño de mano, conserva la orientación de la palma.
-- Ubicación de la mano respecto a los hombros: en lenguaje de señas *dónde* se hace la seña es parte del significado.
-- Flags de presencia: distingue "mano ausente" de "mano en el origen".
-- Etiquetas izquierda/derecha según el usuario (frame espejo; ver nota en `features.py`).
+Entorno comprobado: Python 3.12 x64 en Windows. Desde esta carpeta:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements-tested.txt
+.\.venv\Scripts\python.exe run_local.py
+```
+
+El primer comando requiere que `python` sea realmente Python 3.12 x64. Si no lo es, utilice la ruta completa al intérprete. Nunca se presupone `py -3.12`. No continúe si una etapa falla. `INSTALAR_DEPENDENCIAS.cmd` ofrece instalación con detección; `BUILD_WINDOWS.ps1 -Python "ruta a python.exe" -InstallOnly` permite indicarlo explícitamente.
+
+```powershell
+$env:PYTHONPATH = (Join-Path (Get-Location) 'src')
+.\.venv\Scripts\python.exe -m pytest -q
+.\.venv\Scripts\python.exe run_local.py --self-check
+.\.venv\Scripts\python.exe run_local.py --tracker-check
+```
+
+El ejecutable también acepta `--self-check`, `--tracker-check`, `--train`, `--evaluate`, `--extract`, `--probe-camera`, `--benchmark SEGUNDOS`, `--camera INDICE` y `--duration SEGUNDOS`. Los tres primeros comandos de procesamiento aceptan `--help` para sus argumentos. El entrenamiento habitual se inicia con T dentro de la vista de datos; conserva el modelo anterior hasta publicar correctamente el nuevo.
+
+## Compilar
+
+```powershell
+.\BUILD_WINDOWS.ps1 -Python "ruta completa a Python 3.12 x64\python.exe"
+```
+
+Crea un entorno aislado fuera del proyecto, instala versiones fijadas, ejecuta pruebas, compila onedir y comprueba el ejecutable. Detiene la entrega ante errores y conserva el registro fechado. El ZIP generado lleva fecha/hora para evitar sobrescribir una entrega previa. Necesita Internet para instalar dependencias de compilación; el programa terminado funciona sin descargar modelos.
+
+La distribución contiene el runtime de Python y bibliotecas nativas. Se mantiene el modo consola internamente para recibir la salida del proceso de entrenamiento, pero la ventana de consola propia se oculta al abrir la interfaz. Los jueces usan doble clic. Referencias técnicas: https://www.pyinstaller.org/en/stable/runtime-information.html y https://pyinstaller.org/en/stable/common-issues-and-pitfalls.html.
+
+## Datos y límites
+
+Los recursos incluidos en `_internal/seed` son de lectura. Al iniciar se crean copias de trabajo modificables sin reemplazar datos previos. La caché de cámara del autor no se distribuye: se genera en `config`. La selección automática intenta índices 0–4; `--camera` permite otros índices. La cámara debe estar autorizada y libre.
+
+Fuente exclusiva: `entrega-extraida-oct23.zip`. Las pruebas de empaquetado no equivalen a validación lingüística ni evaluación en vivo con nuevos usuarios. Consulte el informe final de verificaciones para distinguir PASS y NOT RUN. Se conservan `DATASET_LICENSE.txt` y los avisos de dependencias; las imágenes originales del dataset externo no forman parte de este ZIP.

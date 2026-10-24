@@ -1,0 +1,19 @@
+# Entornos y caches locales
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+# Compilaciones y configuracion de esta computadora
+build/
+dist/
+EJECUTABLE_WINDOWS/
+_internal/
+config/
+models/camera_*.json
+models/.training.lock
+SignLens_CONCURSO_COMPLETO*.zip
+.env
+.env.*
+!.env.example

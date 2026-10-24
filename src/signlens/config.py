@@ -1,7 +1,8 @@
 """Central, immutable configuration. Every tunable lives here."""
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, field
+from signlens.reporting import root_dir
 from pathlib import Path
 
 
@@ -42,5 +43,5 @@ class Config:
     pose_max_age_ms: int = 250  # async pose older than this is ignored instead of reused
 
     # Storage
-    models_dir: Path = Path.home() / ".signlens" / "models"
-    data_dir: Path = Path("data")
+    models_dir: Path = field(default_factory=lambda: root_dir() / "models")
+    data_dir: Path = field(default_factory=lambda: root_dir() / "data")

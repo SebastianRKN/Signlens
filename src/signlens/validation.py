@@ -112,9 +112,8 @@ def evaluate_reserved(models: Path, data: Path, model_path: Path | None = None,
                               "Captures in one session are correlated; take-level results are descriptive.",
                               "Test data must not be used to choose labels or confidence thresholds."],
               "inputs": inputs, "takes": takes}
-    reports = data.parent / "reports"
-    reports.mkdir(exist_ok=True)
-    dest = reports / f"validation_{time.strftime('%Y%m%d_%H%M%S')}_{time.time_ns() % 1000000}.json"
+    from signlens.reporting import report_path
+    dest = report_path("validation", root=data.parent)
     dest.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
     return {**report, "report_path": str(dest)}
 

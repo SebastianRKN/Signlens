@@ -172,7 +172,11 @@ def main() -> None:
     ap.add_argument("--seeds", type=int, default=3)
     ap.add_argument("--target-precision", type=float, default=0.75, help="accuracy wanted on accepted predictions")
     ap.add_argument("--models", nargs="+", choices=list(MODELS), default=list(MODELS), help="candidates to compare")
+    ap.add_argument("--reports-dir", type=Path)
     args = ap.parse_args()
+    from signlens.reporting import report_run
+    reports = args.reports_dir or report_run("training")
+    reports.mkdir(parents=True, exist_ok=True)
     if args.seeds < 1 or not 0 < args.target_precision <= 1:
         ap.error("--seeds debe ser positivo y --target-precision estar entre 0 y 1.")
 
@@ -253,8 +257,10 @@ def main() -> None:
                               "Only successfully extracted hands are evaluated.",
                               "No non-sign/unknown class: the threshold is an out-of-fold heuristic."]}
     rep_name = "evaluation.json" if args.scope == "letters" else f"evaluation_{args.scope}.json"
-    (args.out / rep_name).write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
-    np.savez_compressed(args.out / "out_of_fold.npz", true=names[y_true], predicted=names[y_pred], confidence=conf)
+    (reports / rep_name).write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
+    import os
+    (args.out / "report_manifest.json").write_text(json.dumps({"evaluation": os.path.relpath(reports / rep_name, args.out)}), encoding="utf-8")
+    np.savez_compressed(reports / "out_of_fold.npz", true=names[y_true], predicted=names[y_pred], confidence=conf)
     try:
         import matplotlib
         matplotlib.use("Agg")
@@ -266,7 +272,7 @@ def main() -> None:
         ConfusionMatrixDisplay.from_predictions(y_true, y_pred, labels=used, display_labels=[str(names[i]) for i in used],
                                                 ax=ax, cmap="Blues", colorbar=False, normalize="true", values_format=".1f")
         ax.set_title(f"Out-of-fold confusion matrix ({MODE} + {best}, class-session holdout)")
-        fig.tight_layout(); fig.savefig(args.out / f"confusion_matrix_{args.scope}.png", dpi=130)
+        fig.tight_layout(); fig.savefig(reports / f"confusion_matrix_{args.scope}.png", dpi=130)
     except ImportError:
         pass
     print(f"\nsaved {args.out / out_name} and {rep_name}")

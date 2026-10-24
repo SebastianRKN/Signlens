@@ -16,6 +16,7 @@ from pathlib import Path
 import numpy as np
 
 from signlens.classifier import SignClassifier
+from signlens.reporting import report_path, report_run
 
 
 def file_hash(path: Path) -> str:
@@ -41,7 +42,13 @@ def publish_model(models: Path, candidate: Path) -> Path:
     if not candidate.is_relative_to(models.resolve()):
         raise ValueError("El candidato debe estar dentro de la carpeta de modelos.")
     model = candidate / "sign_classifier.joblib"
-    report = json.loads((candidate / "evaluation.json").read_text(encoding="utf-8"))
+    manifest_path = candidate / "report_manifest.json"
+    report_file = candidate / "evaluation.json"
+    if manifest_path.exists():
+        report_file = (candidate / json.loads(manifest_path.read_text(encoding="utf-8"))["evaluation"]).resolve()
+        if not report_file.is_relative_to(models.parent.resolve() / "reports"):
+            raise ValueError("El informe debe estar dentro de reports.")
+    report = json.loads(report_file.read_text(encoding="utf-8"))
     classifier = SignClassifier.load(str(model))
     if not classifier.classes or report["trained_at"] != classifier.meta["trained_at"]:
         raise ValueError("El modelo y su informe no corresponden a la misma version.")
@@ -69,7 +76,7 @@ class TrainingJob:
         self.thread: threading.Thread | None = None
         self.process: subprocess.Popen | None = None
         self.run_dir: Path | None = None
-        self.log_path = self.models.parent / "training.log"
+        self.log_path = report_path("training", ".log", self.models.parent)
 
     @property
     def running(self) -> bool:
@@ -78,6 +85,7 @@ class TrainingJob:
     def start(self) -> bool:
         if self.running:
             return False
+        self.log_path = report_path("training", ".log", self.models.parent)
         self._cancel.clear()
         self.thread = threading.Thread(target=self._run, name="signlens-training", daemon=True)
         self.thread.start()
@@ -108,22 +116,23 @@ class TrainingJob:
             captures = sorted((self.data / "static").rglob("*.npz"))
             if not captures:
                 raise ValueError("Primero guarda capturas para entrenar.")
+            reports = report_run("training", self.models.parent)
             manifest = []
             for index, source in enumerate(captures):
                 target = snapshot / "captures" / f"{index:06d}.npz"
                 target.parent.mkdir(exist_ok=True)
                 shutil.copy2(source, target)
-                manifest.append({"source": str(source), "sha256": file_hash(target)})
-            (self.run_dir / "inputs.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
-            command = [sys.executable, "-u", "-m", "signlens.train", str(snapshot / "base.npz"),
+                manifest.append({"source": source.relative_to(self.data).as_posix(), "sha256": file_hash(target)})
+            (reports / "inputs.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+            prefix = [sys.executable, "--train"] if getattr(sys, "frozen", False) else [sys.executable, "-u", "-m", "signlens.train"]
+            command = prefix + [str(snapshot / "base.npz"), "--reports-dir", str(reports),
                        "--extra", str(snapshot / "captures"), "--out", str(self.run_dir),
                        "--models", "ensemble", "--target-precision", "0.8"]
             env = os.environ.copy()
+            env["SIGNLENS_HOME"] = str(self.models.parent.resolve())
             env["PYTHONPATH"] = str(Path(__file__).resolve().parents[1])
             env["PYTHONIOENCODING"] = "utf-8"
             env["OMP_NUM_THREADS"] = env["OPENBLAS_NUM_THREADS"] = env["MKL_NUM_THREADS"] = "2"
-            if self.log_path.exists():
-                shutil.copy2(self.log_path, self.run_dir / "previous_training.log")
             with self.log_path.open("w", encoding="utf-8", buffering=1) as log:
                 log.write(f"Training run {run_id}\n")
                 if self._cancel.is_set():
@@ -153,11 +162,10 @@ class TrainingJob:
                         raise TimeoutError("Tiempo agotado; modelo anterior conservado.")
                 reader.join(timeout=5)
                 if self.process.returncode != 0:
-                    raise RuntimeError(f"Entrenamiento fallo ({self.process.returncode}). Consulta training.log.")
+                    raise RuntimeError(f"Entrenamiento fallo ({self.process.returncode}). Consulta {self.log_path}.")
             if self._cancel.is_set():
                 raise InterruptedError("Entrenamiento cancelado; modelo anterior conservado.")
             model = publish_model(self.models, self.run_dir)
-            shutil.copy2(self.log_path, self.run_dir / "training.log")
             self.events.put(("complete", str(model)))
         except Exception as exc:
             message = "Ya hay otro entrenamiento. Revisa .training.lock." if isinstance(exc, FileExistsError) else str(exc)

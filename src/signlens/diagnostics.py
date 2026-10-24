@@ -32,10 +32,9 @@ def check(root: Path):
               "camera_check": "NOT RUN"}
     if result["training_data"]["errors"] or result["reserved_data"]["errors"]:
         result["status"] = "FAIL"
-    folder = root / "reports"
-    folder.mkdir(exist_ok=True)
-    (folder / "installation.json").write_text(json.dumps(result, indent=2), encoding="utf-8")
+    from signlens.reporting import write_report
+    write_report("installation", result, root)
     print(json.dumps(result, indent=2))
     if result["status"] != "PASS":
-        raise ValueError("Hay capturas ilegibles; revisa reports/installation.json.")
+        raise ValueError("Hay capturas ilegibles; revisa reports/AAAA-MM-DD/installation_*.json.")
     return result

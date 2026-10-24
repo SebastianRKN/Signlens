@@ -1,3 +1,4 @@
-from signlens.app import main
+from .launcher import main
 
-main()
+if __name__ == "__main__":
+    main()

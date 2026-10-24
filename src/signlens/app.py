@@ -2,6 +2,9 @@
 from __future__ import annotations
 
 import argparse
+import os
+from dataclasses import replace
+from signlens.reporting import report_path
 from collections import deque
 import json
 from pathlib import Path
@@ -45,7 +48,7 @@ def _benchmark(cam, tracker, cfg, seconds):
 
 def main():
     ap = argparse.ArgumentParser(description="SignLens: reconocimiento experimental de letras estaticas.")
-    ap.add_argument("--camera", type=int, default=0)
+    ap.add_argument("--camera", type=int, default=None)
     ap.add_argument("--no-smoothing", action="store_true")
     ap.add_argument("--pose-model", choices=("lite", "full"), default="lite")
     ap.add_argument("--no-mirror", action="store_true")
@@ -62,7 +65,7 @@ def main():
     ap.add_argument("--duration", type=float, help="Cerrar tras N segundos; para ensayos controlados")
     ap.add_argument("--reserve", action="store_true", help="Guardar capturas para evaluacion, sin entrenar con ellas")
     args = ap.parse_args()
-    cfg = Config(camera_index=args.camera, smoothing=not args.no_smoothing, pose_model=args.pose_model,
+    cfg = Config(camera_index=args.camera if args.camera is not None else 0, smoothing=not args.no_smoothing, pose_model=args.pose_model,
                  mirror=not args.no_mirror, camera_probe=not args.no_probe)
     if args.probe_camera:
         print(format_probe(probe_all(cfg), cfg.fps))
@@ -82,6 +85,8 @@ def main():
     runtime = Runtime(cfg.models_dir, cfg.data_dir, args.signer, args.hand, args.every, args.model)
     p = runtime.panel
     p.reserved = args.reserve
+    if os.environ.get('SIGNLENS_STORAGE_FALLBACK') == '1':
+        p.status = f"Datos y reportes: {cfg.data_dir.parent}"
     if args.collect or args.label or args.reserve:
         runtime.handle("view_data")
     print(f"[signlens] Model: {runtime.model_path}; mode=COMPLETO; "
@@ -118,7 +123,19 @@ def main():
 
         def open_worker():
             try:
-                candidate = Camera(cfg, reprobe=args.reprobe and reopen_count == 1)
+                candidate = None
+                failures = []
+                for index in ([args.camera] if args.camera is not None else range(5)):
+                    if closing.is_set():
+                        return
+                    try:
+                        candidate = Camera(replace(cfg, camera_index=index), reprobe=args.reprobe and reopen_count == 1)
+                        break
+                    except RuntimeError as error:
+                        failures.append(str(error))
+                if candidate is None:
+                    selection = str(args.camera) if args.camera is not None else "0-4"
+                    raise RuntimeError(f"No hay camara disponible (indices {selection}). Revisa permisos o cierra otras apps. " + "; ".join(failures))
                 if closing.is_set():
                     candidate.release()
                 else:
@@ -131,7 +148,7 @@ def main():
     cv2.namedWindow("signlens", cv2.WINDOW_AUTOSIZE)
     start = last_frame_at = last_health = time.monotonic()
     processed, latency, arrivals = 0, deque(maxlen=1000), deque(maxlen=120)
-    health_path = cfg.data_dir.parent / "reports" / "live_health.json"
+    health_path = report_path("live_health", root=cfg.data_dir.parent)
     last_image = np.zeros((cfg.height, cfg.width, 3), dtype=np.uint8)
 
     def save_health(ended=False):

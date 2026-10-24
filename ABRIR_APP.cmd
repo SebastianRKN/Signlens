@@ -10,7 +10,7 @@ if not exist "%SIGNLENS_PYTHON%" (
 "%SIGNLENS_PYTHON%" "%~dp0run_local.py" %*
 set "SIGNLENS_RESULT=%ERRORLEVEL%"
 if not "%SIGNLENS_RESULT%"=="0" (
-  echo SignLens no pudo iniciar. Revisa app_error.log y ejecuta VERIFICAR_APP.cmd.
+  echo SignLens no pudo iniciar. Revisa reports\AAAA-MM-DD\application_*.log y ejecuta VERIFICAR_APP.cmd.
   pause
 )
 exit /b %SIGNLENS_RESULT%

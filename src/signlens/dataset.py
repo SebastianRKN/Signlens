@@ -190,7 +190,7 @@ def main() -> None:
     for n in names:
         ok = int((data["y"] == n).sum())
         print(f"  {n:3} detected {ok:3}/{total[n]:3}  ({100 * ok / max(total[n], 1):.0f}%)")
-    (args.out.parent / "failed.txt").write_text("\n".join(f"{s.label}\t{s.image}" for s in failed))
+    __import__("signlens.reporting", fromlist=["report_path"]).report_path("extraction_failed", ".txt").write_text("\n".join(f"{s.label}\t{s.image}" for s in failed))
 
 
 if __name__ == "__main__":

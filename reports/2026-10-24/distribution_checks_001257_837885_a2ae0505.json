@@ -1,0 +1,116 @@
+{
+  "status": "PASS",
+  "exe_sha256": "980de51ed992349e237bf21ded97b382f3db9276fa177e2662b04b47af4cdd82",
+  "pe_machine": "AMD64 (0x8664)",
+  "working_directory": "Windows system directory",
+  "executable_in_path_with_spaces": true,
+  "PATH": "Windows/System32 only; PYTHONPATH, PYTHONHOME and VIRTUAL_ENV removed",
+  "runtime": "Bundled Python; external Python was not uninstalled",
+  "fallback_scope": "Unavailable storage path represented by a file; permission denial additionally unit-tested",
+  "evaluation_scope": "Synthetic landmarks exercise pipeline; metrics are NOT recognition evidence",
+  "no_camera_health": {
+    "updated_at": "2026-10-24 00:12:56",
+    "uptime_seconds": 12.0,
+    "processed_frames": 0,
+    "camera_fps": 0,
+    "pipeline_fps": 0,
+    "latency_p95_ms": null,
+    "camera_errors": [
+      "No hay camara disponible (indices 99). Revisa permisos o cierra otras apps. Camera 99 did not deliver frames",
+      "No hay camara disponible (indices 99). Revisa permisos o cierra otras apps. Camera 99 did not deliver frames"
+    ],
+    "camera_open_attempts": 2,
+    "model": "USER_HOME\\AppData\\Local\\Temp\\SignLens verification ymloga0b\\datos con espacios\\models\\sign_classifier.joblib",
+    "model_date": "2026-10-18 17:10:55",
+    "ended_cleanly": true,
+    "training": false,
+    "note": "Health telemetry measures uptime and processing; it is not sign accuracy."
+  },
+  "tests": [
+    {
+      "test": "release_self_check",
+      "exit_code": 0,
+      "seconds": 2.2189999999973224,
+      "log": "reports/2026-10-24/release_self_check_001220_909037_1d770d3e.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    },
+    {
+      "test": "release_native_tracker",
+      "exit_code": 0,
+      "seconds": 5.827999999994063,
+      "log": "reports/2026-10-24/release_native_tracker_001223_136930_0f664af5.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    },
+    {
+      "test": "release_sign_classifier_all",
+      "exit_code": 0,
+      "seconds": 1.8430000000080327,
+      "log": "reports/2026-10-24/release_sign_classifier_all_001228_967054_6ce6b31c.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    },
+    {
+      "test": "release_sign_classifier_previous",
+      "exit_code": 0,
+      "seconds": 1.9069999999919673,
+      "log": "reports/2026-10-24/release_sign_classifier_previous_001230_812884_0294f27a.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    },
+    {
+      "test": "release_empty_evaluation",
+      "exit_code": 1,
+      "seconds": 1.9840000000112923,
+      "log": "reports/2026-10-24/release_empty_evaluation_001232_714217_f527496d.log",
+      "expected_exit_code": 1,
+      "status": "PASS"
+    },
+    {
+      "test": "release_evaluation",
+      "exit_code": 0,
+      "seconds": 2.0469999999913853,
+      "log": "reports/2026-10-24/release_evaluation_001234_940423_f05f3151.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    },
+    {
+      "test": "release_extraction_cli",
+      "exit_code": 0,
+      "seconds": 0.75,
+      "log": "reports/2026-10-24/release_extraction_cli_001236_994630_37df2080.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    },
+    {
+      "test": "release_training_cli",
+      "exit_code": 0,
+      "seconds": 1.7970000000059372,
+      "log": "reports/2026-10-24/release_training_cli_001237_748398_7699f763.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    },
+    {
+      "test": "release_storage_fallback",
+      "exit_code": 0,
+      "seconds": 2.0939999999973224,
+      "log": "reports/2026-10-24/release_storage_fallback_001239_537288_6e771daf.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    },
+    {
+      "test": "release_no_camera",
+      "exit_code": 0,
+      "seconds": 16.187000000005355,
+      "log": "reports/2026-10-24/release_no_camera_001241_636946_f042b541.log",
+      "expected_exit_code": 0,
+      "status": "PASS"
+    }
+  ],
+  "limitations": [
+    "No physical test on a second PC",
+    "No independent live sign accuracy evaluation",
+    "Extraction CLI help tested; original source images are not in the input ZIP"
+  ]
+}

@@ -1,7 +1,7 @@
-"""Downloads and caches MediaPipe model files on first run."""
+"""Loads the local MediaPipe models shipped with this distribution."""
 from __future__ import annotations
 
-import urllib.request
+
 from pathlib import Path
 
 _BASE = "https://storage.googleapis.com/mediapipe-models"
@@ -15,9 +15,6 @@ MODELS = {
 def ensure_model(name: str, models_dir: Path) -> Path:
     models_dir.mkdir(parents=True, exist_ok=True)
     path = models_dir / Path(MODELS[name]).name
-    if not path.exists():
-        print(f"[signlens] downloading {name} model -> {path}")
-        tmp = path.with_suffix(".part")
-        urllib.request.urlretrieve(MODELS[name], tmp)
-        tmp.rename(path)
+    if not path.is_file():
+        raise FileNotFoundError(f"Falta el modelo local {path.name}. Extrae de nuevo la distribucion completa; no se descargan modelos al iniciar.")
     return path

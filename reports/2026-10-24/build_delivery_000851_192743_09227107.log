@@ -1,0 +1,201 @@
+323 INFO: PyInstaller: 6.22.0, contrib hooks: 2026.9
+323 INFO: Python: 3.12.14
+375 INFO: Platform: Windows-11-10.0.26300-SP0
+375 INFO: Python environment: USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-build-env
+2651 WARNING: Failed to collect submodules for 'sklearn.externals.array_api_compat.torch' because importing 'sklearn.externals.array_api_compat.torch' raised: ModuleNotFoundError: No module named 'torch'
+4206 INFO: Module search paths (PYTHONPATH):
+['USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\outputs\\SignLens_CONCURSO_COMPLETO\\PROYECTO',
+ 'USER_HOME\\AppData\\Roaming\\uv\\python\\cpython-3.12-windows-x86_64-none\\python312.zip',
+ 'USER_HOME\\AppData\\Roaming\\uv\\python\\cpython-3.12-windows-x86_64-none\\DLLs',
+ 'USER_HOME\\AppData\\Roaming\\uv\\python\\cpython-3.12-windows-x86_64-none\\Lib',
+ 'USER_HOME\\AppData\\Roaming\\uv\\python\\cpython-3.12-windows-x86_64-none',
+ 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env',
+ 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages',
+ 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\outputs\\SignLens_CONCURSO_COMPLETO\\PROYECTO',
+ 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\outputs\\SignLens_CONCURSO_COMPLETO\\PROYECTO\\src']
+5285 INFO: Appending 'binaries' from .spec
+5285 INFO: Appending 'datas' from .spec
+5293 INFO: checking Analysis
+5414 INFO: Building because excludes changed
+5414 INFO: Looking for Python shared library...
+5414 INFO: Using Python shared library: USER_HOME\AppData\Roaming\uv\python\cpython-3.12-windows-x86_64-none\python312.dll
+5414 INFO: Running Analysis Analysis-00.toc
+5414 INFO: Target bytecode optimization level: 0
+5414 INFO: Initializing module dependency graph...
+5421 INFO: Initializing module graph hook caches...
+5438 INFO: Analyzing modules for base_library.zip ...
+8445 INFO: Processing standard module hook 'hook-encodings.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+9469 INFO: Processing standard module hook 'hook-math.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+10628 INFO: Processing standard module hook 'hook-pickle.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+11786 INFO: Processing standard module hook 'hook-heapq.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+12216 INFO: Caching module dependency graph...
+12250 INFO: Analyzing USER_HOME\Documents\Codex\2026-10-18\revi\outputs\SignLens_CONCURSO_COMPLETO\PROYECTO\run_local.py
+12301 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+12499 INFO: Processing standard module hook 'hook-xml.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+12742 INFO: Processing standard module hook 'hook-_ctypes.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+12808 INFO: Processing standard module hook 'hook-platform.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+12867 INFO: Processing standard module hook 'hook-numpy.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+13186 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+13197 INFO: SetuptoolsInfo: initializing cached setuptools info...
+15061 INFO: Processing standard module hook 'hook-sysconfig.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+15216 INFO: Processing standard module hook 'hook-webbrowser.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+16385 INFO: Processing standard module hook 'hook-difflib.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+17981 INFO: Processing standard module hook 'hook-cloudpickle.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+18466 INFO: Processing standard module hook 'hook-cv2.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+19680 INFO: Processing standard module hook 'hook-sounddevice.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+19700 INFO: Processing pre-safe-import-module hook 'hook-tensorflow.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\pre_safe_import_module'
+19772 INFO: Processing standard module hook 'hook-certifi.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+19894 INFO: Processing standard module hook 'hook-matplotlib.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+20613 INFO: Processing pre-safe-import-module hook 'hook-packaging.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+20930 INFO: Processing standard module hook 'hook-matplotlib.backend_bases.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+21064 INFO: Processing standard module hook 'hook-PIL.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+21164 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+22103 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+22279 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+23308 INFO: Processing standard module hook 'hook-matplotlib.backends.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+23403 INFO: Processing standard module hook 'hook-matplotlib.pyplot.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+23546 INFO: Processing standard module hook 'hook-matplotlib.figure.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+24222 INFO: Processing standard module hook 'hook-dateutil.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+24302 INFO: Processing pre-safe-import-module hook 'hook-six.moves.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+25896 INFO: Processing pre-safe-import-module hook 'hook-gi.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+26223 INFO: Analyzing hidden import 'sklearn'
+26227 INFO: Processing standard module hook 'hook-sklearn.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+26927 INFO: Processing standard module hook 'hook-sklearn.utils.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+26983 INFO: Processing standard module hook 'hook-scipy.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+28589 INFO: Processing standard module hook 'hook-pycparser.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+28718 INFO: Processing standard module hook 'hook-setuptools.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+28728 INFO: Processing pre-safe-import-module hook 'hook-distutils.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+28760 INFO: Processing pre-safe-import-module hook 'hook-jaraco.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+28761 INFO: Setuptools: 'jaraco' appears to be a full setuptools-vendored copy - creating alias to 'setuptools._vendor.jaraco'!
+28761 INFO: Processing pre-safe-import-module hook 'hook-more_itertools.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+28761 INFO: Setuptools: 'more_itertools' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.more_itertools'!
+28895 INFO: Processing standard module hook 'hook-_osx_support.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+29108 INFO: Processing standard module hook 'hook-setuptools._vendor.jaraco.text.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+29111 INFO: Processing pre-safe-import-module hook 'hook-importlib_resources.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+29124 INFO: Processing pre-safe-import-module hook 'hook-backports.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+29127 INFO: Setuptools: 'backports' appears to be a full setuptools-vendored copy - creating alias to 'setuptools._vendor.backports'!
+29710 INFO: Processing pre-safe-import-module hook 'hook-tomli.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+29710 INFO: Setuptools: 'tomli' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.tomli'!
+30428 INFO: Processing pre-safe-import-module hook 'hook-wheel.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+30428 INFO: Setuptools: 'wheel' appears to be a setuptools-vendored copy - creating alias to 'setuptools._vendor.wheel'!
+31269 INFO: Processing standard module hook 'hook-scipy.linalg.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+31412 INFO: Processing standard module hook 'hook-scipy.special._ufuncs.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+32626 INFO: Processing standard module hook 'hook-scipy.spatial._ckdtree.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+33227 INFO: Processing standard module hook 'hook-scipy.spatial.transform.rotation.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+34260 INFO: Processing standard module hook 'hook-scipy.stats._stats.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+34778 INFO: Processing standard module hook 'hook-scipy.sparse.csgraph.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+35559 INFO: Processing standard module hook 'hook-scipy.special._ellip_harm_2.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+36095 INFO: Processing standard module hook 'hook-narwhals.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+37858 INFO: Processing standard module hook 'hook-sklearn.externals.array_api_compat.numpy.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+37912 INFO: Processing standard module hook 'hook-sklearn.externals.array_api_compat.cupy.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+37928 INFO: Processing standard module hook 'hook-sklearn.externals.array_api_compat.torch.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+37959 INFO: Processing standard module hook 'hook-sklearn.externals.array_api_compat.dask.array.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+38263 INFO: Processing standard module hook 'hook-sklearn.metrics.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+43740 INFO: Processing standard module hook 'hook-sklearn.metrics.cluster.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+43825 INFO: Processing standard module hook 'hook-sklearn.metrics.pairwise.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+43976 INFO: Processing standard module hook 'hook-sklearn.cluster.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+44143 INFO: Processing standard module hook 'hook-sklearn.neighbors.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+44250 INFO: Processing standard module hook 'hook-sklearn.linear_model.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+45632 INFO: Analyzing hidden import 'sklearn._build_utils'
+45632 INFO: Analyzing hidden import 'sklearn._build_utils.tempita'
+45640 INFO: Analyzing hidden import 'sklearn._build_utils.version'
+45640 INFO: Analyzing hidden import 'sklearn._cyutility'
+45640 INFO: Analyzing hidden import 'sklearn._min_dependencies'
+45640 INFO: Analyzing hidden import 'sklearn.calibration'
+45664 INFO: Analyzing hidden import 'sklearn.cross_decomposition'
+45680 INFO: Analyzing hidden import 'sklearn.datasets'
+45723 INFO: Processing standard module hook 'hook-scipy.io.matlab.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+46108 INFO: Analyzing hidden import 'sklearn.datasets.data'
+46108 INFO: Analyzing hidden import 'sklearn.datasets.descr'
+46108 INFO: Analyzing hidden import 'sklearn.datasets.images'
+46108 INFO: Analyzing hidden import 'sklearn.dummy'
+46119 INFO: Analyzing hidden import 'sklearn.ensemble'
+46152 INFO: Processing standard module hook 'hook-sklearn.tree.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+46362 INFO: Analyzing hidden import 'sklearn.ensemble._hist_gradient_boosting.utils'
+46372 INFO: Analyzing hidden import 'sklearn.experimental'
+46372 INFO: Analyzing hidden import 'sklearn.experimental.enable_halving_search_cv'
+46376 INFO: Analyzing hidden import 'sklearn.experimental.enable_hist_gradient_boosting'
+46376 INFO: Analyzing hidden import 'sklearn.experimental.enable_iterative_imputer'
+46423 INFO: Analyzing hidden import 'sklearn.externals.array_api_compat.common._fft'
+46434 INFO: Analyzing hidden import 'sklearn.externals.array_api_compat.numpy.fft'
+46434 INFO: Analyzing hidden import 'sklearn.externals.array_api_extra._lib._backends'
+46439 INFO: Analyzing hidden import 'sklearn.externals.array_api_extra._lib._testing'
+46439 INFO: Analyzing hidden import 'sklearn.feature_selection'
+46507 INFO: Analyzing hidden import 'sklearn.inspection'
+46573 INFO: Analyzing hidden import 'sklearn.kernel_approximation'
+46590 INFO: Analyzing hidden import 'sklearn.kernel_ridge'
+46600 INFO: Analyzing hidden import 'sklearn.metrics._pairwise_distances_reduction._datasets_pair'
+46600 INFO: Analyzing hidden import 'sklearn.metrics._pairwise_distances_reduction._middle_term_computer'
+46600 INFO: Analyzing hidden import 'sklearn.mixture'
+46672 INFO: Analyzing hidden import 'sklearn.multioutput'
+46692 INFO: Analyzing hidden import 'sklearn.naive_bayes'
+46720 INFO: Analyzing hidden import 'sklearn.neighbors._partition_nodes'
+46720 INFO: Analyzing hidden import 'sklearn.neighbors._quad_tree'
+46720 INFO: Analyzing hidden import 'sklearn.neural_network'
+46763 INFO: Analyzing hidden import 'sklearn.random_projection'
+46775 INFO: Analyzing hidden import 'sklearn.semi_supervised'
+46792 INFO: Analyzing hidden import 'sklearn.svm._newrand'
+46792 INFO: Analyzing hidden import 'sklearn.tree._partitioner'
+46792 INFO: Analyzing hidden import 'sklearn.tree._utils'
+46792 INFO: Analyzing hidden import 'sklearn.utils._cython_blas'
+46792 INFO: Analyzing hidden import 'sklearn.utils._heap'
+46792 INFO: Analyzing hidden import 'sklearn.utils._mocking'
+46801 INFO: Analyzing hidden import 'sklearn.utils._sorting'
+46801 INFO: Analyzing hidden import 'sklearn.utils._test_common'
+46801 INFO: Analyzing hidden import 'sklearn.utils._test_common.instance_generator'
+46834 INFO: Analyzing hidden import 'sklearn.utils._typedefs'
+46834 INFO: Analyzing hidden import 'sklearn.utils._vector_sentinel'
+46834 INFO: Analyzing hidden import 'sklearn.utils._weight_vector'
+46834 INFO: Analyzing hidden import 'sklearn.utils.estimator_checks'
+46993 INFO: Analyzing hidden import 'signlens.train'
+47013 INFO: Analyzing hidden import 'signlens.dataset'
+47030 INFO: Processing module hooks (post-graph stage)...
+47050 WARNING: Hidden import "pycparser.lextab" not found!
+47050 WARNING: Hidden import "pycparser.yacctab" not found!
+47072 INFO: Processing standard module hook 'hook-matplotlib.backends.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+47072 INFO: Matplotlib backend selection method: automatic discovery of used backends
+47089 INFO: Discovered Matplotlib backend(s) via `matplotlib.use()` call in module 'signlens.train': ['Agg']
+47089 INFO: The following Matplotlib backends were discovered by scanning for `matplotlib.use()` calls: ['Agg']. If your backend of choice is not in this list, either add a `matplotlib.use()` call to your code, or configure the backend collection via hook options (see: https://pyinstaller.org/en/stable/hooks-config.html#matplotlib-hooks).
+47901 INFO: Selected matplotlib backends: ['Agg']
+47901 INFO: Extra dists for selected matplotlib backends: []
+48150 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+48212 WARNING: Hidden import "scipy.special._cdflib" not found!
+48311 INFO: Performing binary vs. data reclassification (727 entries)
+48389 INFO: Looking for ctypes DLLs
+48607 INFO: Analyzing run-time hooks ...
+48616 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+48622 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+48622 INFO: Including run-time hook 'pyi_rth_mplconfig.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+48622 INFO: Processing pre-find-module-path hook 'hook-_pyi_rth_utils.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+48629 INFO: Processing standard module hook 'hook-_pyi_rth_utils.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks'
+48640 INFO: Including run-time hook 'pyi_rth_setuptools.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+48640 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+48693 INFO: Creating base_library.zip...
+48712 INFO: Looking for dynamic libraries
+53721 INFO: Extra DLL search directories (AddDllDirectory): ['USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\numpy.libs', 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\cv2\\../../x64/vc17/bin', 'USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\scipy.libs']
+53721 INFO: Extra DLL search directories (PATH): ['USER_HOME\\Documents\\Codex\\2026-10-18\\revi\\work\\concurso-build-env\\Lib\\site-packages\\cv2\\../../x64/vc17/bin']
+56989 INFO: Warnings written to USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-pyinstaller\SignLens\warn-SignLens.txt
+57242 INFO: Graph cross-reference written to USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-pyinstaller\SignLens\xref-SignLens.html
+57344 INFO: checking PYZ
+57491 INFO: Building because USER_HOME\Documents\Codex\2026-10-18\revi\outputs\SignLens_CONCURSO_COMPLETO\PROYECTO\src\signlens\app.py changed
+57491 INFO: Building PYZ (ZlibArchive) USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-pyinstaller\SignLens\PYZ-00.pyz
+59914 INFO: Building PYZ (ZlibArchive) USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-pyinstaller\SignLens\PYZ-00.pyz completed successfully.
+59971 INFO: checking PKG
+59971 INFO: Building because USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-pyinstaller\SignLens\PYZ-00.pyz changed
+59971 INFO: Building PKG (CArchive) SignLens.pkg
+60035 INFO: Building PKG (CArchive) SignLens.pkg completed successfully.
+60035 INFO: Bootloader USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-build-env\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\run.exe
+60035 INFO: checking EXE
+60082 INFO: Rebuilding EXE-00.toc because pkg is more recent
+60082 INFO: Building EXE from EXE-00.toc
+60084 INFO: Copying bootloader EXE to USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-pyinstaller\SignLens\SignLens.exe
+60282 INFO: Copying icon to EXE
+60403 INFO: Copying 0 resources to EXE
+60406 INFO: Embedding manifest in EXE
+60552 INFO: Appending PKG archive to EXE
+60804 INFO: Fixing EXE headers
+61658 INFO: Building EXE from EXE-00.toc completed successfully.
+61672 INFO: checking COLLECT
+61734 INFO: Building COLLECT COLLECT-00.toc
+63777 INFO: Building COLLECT COLLECT-00.toc completed successfully.
+63803 INFO: Build complete! The results are available in: USER_HOME\Documents\Codex\2026-10-18\revi\work\concurso-delivery
