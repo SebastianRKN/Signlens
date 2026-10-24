@@ -1,0 +1,9 @@
+{
+  "tests": "PASS",
+  "tests_passed": 79,
+  "gesture_reference": "FAIL 0/2; opt-in experimental G; Backspace stable",
+  "physical_word_check": "User reports all included letters recognize very well; not quantified independent accuracy",
+  "model_sha256": "9eaeed88b66a63a6945c8ab85899fb628c8a989ecd70fc28f930f58c88ee6f13",
+  "clean_install": "PASS: fresh venv, pinned dependencies, editable install from extracted ZIP, self-check, pip check",
+  "hand_identity": "Pose wrist override implemented, regression test PASS; user recheck pending"
+}

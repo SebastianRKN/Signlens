@@ -1,6 +1,0 @@
-SignLens: datos y reportes en USER_HOME\AppData\Local\Temp\SignLens verification gud8i7oc\datos con espacios
-Traceback (most recent call last):
-  File "signlens\launcher.py", line 57, in main
-  File "signlens\validation.py", line 127, in main
-  File "signlens\validation.py", line 45, in evaluate_reserved
-ValueError: No hay tomas reservadas. Elige Guardar: Evaluar y captura una sesion nueva.

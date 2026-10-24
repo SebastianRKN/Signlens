@@ -1,0 +1,34 @@
+SignLens: datos y reportes en USER_HOME\AppData\Local\Temp\SignLens verification ymloga0b\datos con espacios
+usage: SignLens.exe [-h] [--out OUT] [--scope {letters,all}]
+                    [--extra [EXTRA ...]] [--seeds SEEDS]
+                    [--target-precision TARGET_PRECISION]
+                    [--models {svm,mlp,logreg,ensemble} [{svm,mlp,logreg,ensemble} ...]]
+                    [--reports-dir REPORTS_DIR]
+                    landmarks
+
+Train and honestly evaluate the static-sign classifier.
+
+    python -m signlens.train models/landmarks.npz --out models [--scope letters|all] [--extra data/static]
+
+Evaluation (what each number means)
+  main       class-session holdout: every class is tested on capture sessions it never saw in
+             training. This is the number to quote and the one models are selected on.
+  optimistic grouped by source photo only. Neighbouring photos from one session end up on both sides.
+  strict     grouped by session. Pessimistic here because many classes exist in only 2-4 sessions.
+  transfer   (with --extra) train on the dataset, test on YOUR own webcam captures.
+Augmentation (mirror, small 3-D rotations, landmark noise) is applied to training folds only.
+
+positional arguments:
+  landmarks
+
+options:
+  -h, --help            show this help message and exit
+  --out OUT
+  --scope {letters,all}
+  --extra [EXTRA ...]   folder(s)/files of your own captures (.npz)
+  --seeds SEEDS
+  --target-precision TARGET_PRECISION
+                        accuracy wanted on accepted predictions
+  --models {svm,mlp,logreg,ensemble} [{svm,mlp,logreg,ensemble} ...]
+                        candidates to compare
+  --reports-dir REPORTS_DIR

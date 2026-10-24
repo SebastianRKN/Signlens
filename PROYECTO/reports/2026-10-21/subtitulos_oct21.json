@@ -1,0 +1,16 @@
+{
+  "source_compile": "PASS",
+  "startup": "PASS",
+  "processed_frames": 1063,
+  "camera_fps": 31.09192638960075,
+  "pipeline_fps": 19.428571428571427,
+  "camera_errors": [],
+  "ended_cleanly": true,
+  "automated_tests": "NOT RUN for this update; previous 74 tests covered the earlier UI",
+  "physical_sentence_accuracy": "NOT EVALUATED",
+  "preview": "Illustrative UI render with example text, not recognized camera output",
+  "model_changed": false,
+  "visual_review": "PASS: native app window observed with live hand skeleton, separate hand readouts, bottom subtitles and no buttons.",
+  "visual_review_limit": "Observed one visible hand; simultaneous two-hand sentence accuracy was not measured.",
+  "skeleton_restored": true
+}
