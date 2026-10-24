@@ -1,19 +1,3 @@
-# SignLens — entrega completa
-
-Este repositorio contiene la misma estructura y los mismos archivos de la entrega local **SignLens_CONCURSO_COMPLETO**:
-
-```text
-PROYECTO/
-EJECUTABLE_WINDOWS/
-instrucciones.md
-MANIFEST.sha256
-```
-
-- [Código, modelos, datos y reportes](PROYECTO/README.md)
-- [Carpeta del ejecutable Windows](EJECUTABLE_WINDOWS)
-- [Instrucciones para usar la aplicación](instrucciones.md)
-
-## Descargar y abrir
 
 [Descargar SignLens_CONCURSO_COMPLETO.zip (entrega verificada)](https://github.com/SebastianRKN/Signlens/releases/download/v0.1.0-concurso-2026-10-24/SignLens_CONCURSO_COMPLETO.zip)
 
