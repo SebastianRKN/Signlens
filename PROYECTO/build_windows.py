@@ -57,8 +57,8 @@ def main():
         stage = work/'SignLens_CONCURSO_COMPLETO'; stage.mkdir()
         shutil.copytree(ROOT,stage/'PROYECTO',ignore=shutil.ignore_patterns('.venv','__pycache__','.pytest_cache','*.pyc','.git'))
         shutil.copytree(dist,stage/'EJECUTABLE_WINDOWS')
-        instructions = ROOT.parent/'INSTRUCCIONES_CONCURSO.md'
-        if not instructions.is_file(): raise RuntimeError('Falta INSTRUCCIONES_CONCURSO.md junto a PROYECTO.')
+        instructions = ROOT.parent/'instrucciones.md'
+        if not instructions.is_file(): raise RuntimeError('Falta instrucciones.md junto a PROYECTO.')
         shutil.copy2(instructions,stage/instructions.name)
         target=ROOT.parent.parent/('SignLens_CONCURSO_COMPLETO_'+datetime.datetime.now().strftime('%Y%m%d_%H%M%S')+'.zip')
         with zipfile.ZipFile(target,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:

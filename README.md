@@ -5,13 +5,13 @@ Este repositorio contiene la misma estructura y los mismos archivos de la entreg
 ```text
 PROYECTO/
 EJECUTABLE_WINDOWS/
-INSTRUCCIONES_CONCURSO.md
+instrucciones.md
 MANIFEST.sha256
 ```
 
 - [Código, modelos, datos y reportes](PROYECTO/README.md)
 - [Carpeta del ejecutable Windows](EJECUTABLE_WINDOWS)
-- [Instrucciones para usar la aplicación](INSTRUCCIONES_CONCURSO.md)
+- [Instrucciones para usar la aplicación](instrucciones.md)
 
 ## Descargar y abrir
 
@@ -21,6 +21,6 @@ Extrae el ZIP completo y abre `EJECUTABLE_WINDOWS/SignLens.exe`. No requiere ins
 
 Las bibliotecas grandes y el ejecutable del repositorio se almacenan mediante **Git LFS**. Para clonar y ejecutar desde Git, instala Git LFS y ejecuta `git lfs install` antes de clonar, o `git lfs pull` después. Para usar la aplicación directamente, descarga el ZIP verificado enlazado arriba; la descarga automática «Code → Download ZIP» puede no incluir el contenido de Git LFS.
 
-Los archivos originales de la entrega se conservan sin modificaciones; `MANIFEST.sha256` permite comprobarlos. Este README y los archivos de configuración de Git se añaden únicamente para publicar y navegar el repositorio.
+Los modelos y el ejecutable de la entrega se conservan sin modificaciones; `MANIFEST.sha256` permite comprobarlos. Este README y los archivos de configuración de Git se añaden únicamente para publicar y navegar el repositorio.
 
 El reconocimiento es experimental y se limita a letras estáticas; el borrado por gesto continúa siendo experimental. Las pruebas de software y empaquetado no sustituyen una validación con nuevos participantes.

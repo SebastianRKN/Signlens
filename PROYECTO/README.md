@@ -4,7 +4,7 @@ Prototipo local de visión por computadora para reconocer letras estáticas con 
 
 ## Entrega
 
-El jurado abre `../EJECUTABLE_WINDOWS/SignLens.exe`; no necesita Python ni Internet. Extraer toda la distribución. Ver `../INSTRUCCIONES_CONCURSO.md`.
+El jurado abre `../EJECUTABLE_WINDOWS/SignLens.exe`; no necesita Python ni Internet. Extraer toda la distribución. Ver `../instrucciones.md`.
 
 ## Arquitectura y capacidades
 
