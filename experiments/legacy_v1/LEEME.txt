@@ -1,0 +1,5 @@
+Script del entrenamiento anterior (SVM C=10 sobre forma orientada, split de Roboflow).
+Se conserva solo para reproducir el modelo previo (models/sign_classifier_previous.joblib).
+Su evaluacion (11 imagenes de test) era demasiado pequena para ser fiable. Use `python -m signlens.train`.
+validate_lsec.py se elimino: dependia de funciones que ya no existen y su validacion agrupada por foto
+esta superada por la validacion por sesiones de signlens.train.

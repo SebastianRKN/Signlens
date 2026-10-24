@@ -1,0 +1,6 @@
+{
+  "reference_video_events": [],
+  "expected_demonstrated_gestures": 2,
+  "status": "FAIL",
+  "note": "Replay of supplied video landmarks, not independent validation."
+}

@@ -1,0 +1,4994 @@
+[
+  {
+    "path": "work\\lsec-dataset\\train\\images\\Captura-de-pantalla-2023-07-31-171420-1-_png.rf.03db614a784e30b783c988b54db99489.jpg",
+    "source": "Captura-de-pantalla-2023-07-31-171420-1-_png",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\Captura-de-pantalla-2023-07-31-171420-1-_png.rf.3a4d19c74ee992c4e118561c1c7e1e88.jpg",
+    "source": "Captura-de-pantalla-2023-07-31-171420-1-_png",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\Captura-de-pantalla-2023-07-31-171420-1-_png.rf.a11d9b4569433f926c87c45557f84295.jpg",
+    "source": "Captura-de-pantalla-2023-07-31-171420-1-_png",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180639_jpg.rf.c11737748e0860c23dde3c5dfccf776e.jpg",
+    "source": "IMG_20230731_180639_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180639_jpg.rf.f1560cee91cbbbb2bf94d74c8714cacb.jpg",
+    "source": "IMG_20230731_180639_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180642_jpg.rf.c22b6e2c1325be5e482902d57937b93a.jpg",
+    "source": "IMG_20230731_180642_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180642_jpg.rf.e3ea765df7db7e79c8081011260a682a.jpg",
+    "source": "IMG_20230731_180642_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180643_jpg.rf.23e105182a2222abe41dcbf48ff95716.jpg",
+    "source": "IMG_20230731_180643_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180643_jpg.rf.546c03294459054dbe715cc7e1e4b349.jpg",
+    "source": "IMG_20230731_180643_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180646_jpg.rf.8ff6088d8a91e7ded69013d7e21be7cf.jpg",
+    "source": "IMG_20230731_180646_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180646_jpg.rf.ef397a12a3c31167aea6f1f40801ebaa.jpg",
+    "source": "IMG_20230731_180646_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180652_jpg.rf.8e32db0db2a5f28c6eaa4c2d02bbcbcf.jpg",
+    "source": "IMG_20230731_180652_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180700_jpg.rf.b2d8e26a776e50f2924456ffdb7a9fd5.jpg",
+    "source": "IMG_20230731_180700_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180700_jpg.rf.d38d11cc9409778c4a40354750807f54.jpg",
+    "source": "IMG_20230731_180700_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180700_jpg.rf.ea9111e43e48311c868854af51c2e7af.jpg",
+    "source": "IMG_20230731_180700_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180704_jpg.rf.549fea2686d58ba0326023187b8e3055.jpg",
+    "source": "IMG_20230731_180704_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180704_jpg.rf.5af89d9d4e07a1c02a89a2d7a97bc716.jpg",
+    "source": "IMG_20230731_180704_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180704_jpg.rf.80d3abd06c48bb472bc54bb047e752c2.jpg",
+    "source": "IMG_20230731_180704_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180706_jpg.rf.309e5abf3247c0d5bf8de695bb777e5d.jpg",
+    "source": "IMG_20230731_180706_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180706_jpg.rf.6fcb4ca5db90381d92663993dc6abe85.jpg",
+    "source": "IMG_20230731_180706_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180706_jpg.rf.c9b7f4b80991dd8ce5115fc1dd4fd8de.jpg",
+    "source": "IMG_20230731_180706_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180723_jpg.rf.9b1ac413feeec33267782db4f21626be.jpg",
+    "source": "IMG_20230731_180723_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180723_jpg.rf.b28b234178f5040374adb6c8bbfbc8fd.jpg",
+    "source": "IMG_20230731_180723_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_180723_jpg.rf.c1036a02d4ce95e9ee934f11688fd6a3.jpg",
+    "source": "IMG_20230731_180723_jpg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181029_jpg.rf.367636624c898d82fd92e2a030445695.jpg",
+    "source": "IMG_20230731_181029_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181029_jpg.rf.e1fe1c2fe30d011bd8449babdd510343.jpg",
+    "source": "IMG_20230731_181029_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181032_jpg.rf.4d640dd0268e0e9a6f358ea6fa9836b0.jpg",
+    "source": "IMG_20230731_181032_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181032_jpg.rf.a79bb102bc57a658214df7f4cc215ddd.jpg",
+    "source": "IMG_20230731_181032_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181032_jpg.rf.ed4d5f157893b84f9538fc11c005623e.jpg",
+    "source": "IMG_20230731_181032_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181034_jpg.rf.762c08e0c2c9d40e111336ad2da1092f.jpg",
+    "source": "IMG_20230731_181034_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181034_jpg.rf.f6d68b5930e464f378c964ae5350884d.jpg",
+    "source": "IMG_20230731_181034_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181036_jpg.rf.6e489da057a6e194ba7193992bafc5a0.jpg",
+    "source": "IMG_20230731_181036_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181036_jpg.rf.c89ee4866c0c37777afe4b8b3cec9e9e.jpg",
+    "source": "IMG_20230731_181036_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181036_jpg.rf.c9b42d1d9d45f2015404fe3039bd5c59.jpg",
+    "source": "IMG_20230731_181036_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181039_jpg.rf.adb18387326ac4640ab103d2477086cb.jpg",
+    "source": "IMG_20230731_181039_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181043_jpg.rf.a161aea568d87ae52c3097b89c0359f4.jpg",
+    "source": "IMG_20230731_181043_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181056_jpg.rf.226000b02d55e024642865a810730b64.jpg",
+    "source": "IMG_20230731_181056_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181056_jpg.rf.4bb77d3d4c2fa922959a4bb1ed6fd561.jpg",
+    "source": "IMG_20230731_181056_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181059_jpg.rf.973987bf66ae6c315d7ab297cb16303e.jpg",
+    "source": "IMG_20230731_181059_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181059_jpg.rf.a4d13142efa5abd17026bafa6f8c004a.jpg",
+    "source": "IMG_20230731_181059_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181059_jpg.rf.c03f63f5e5574c91ec3c75eeb2bfe72e.jpg",
+    "source": "IMG_20230731_181059_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181102_jpg.rf.2fa62f18c5be506d8c4187ccc10f4826.jpg",
+    "source": "IMG_20230731_181102_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181102_jpg.rf.7fdfb8f99773e2fd9c21ac5bff773b9f.jpg",
+    "source": "IMG_20230731_181102_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181102_jpg.rf.f8302d833da7550fa06d8cf4577dc866.jpg",
+    "source": "IMG_20230731_181102_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181104_jpg.rf.1590566816c70c7b64cc4a40252a99c4.jpg",
+    "source": "IMG_20230731_181104_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181104_jpg.rf.19061944cffd574ad2e7dda0d926ab30.jpg",
+    "source": "IMG_20230731_181104_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181104_jpg.rf.6802c1b645e7fcc1025fac6b1fee5908.jpg",
+    "source": "IMG_20230731_181104_jpg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181217_jpg.rf.375915c2f464c02790b1682c99fbe782.jpg",
+    "source": "IMG_20230731_181217_jpg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181219_jpg.rf.3122fc3d2de9b1b40aeae4b891d4ed27.jpg",
+    "source": "IMG_20230731_181219_jpg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181230_jpg.rf.8d458e969dbae78a919d6d679f4b1f8b.jpg",
+    "source": "IMG_20230731_181230_jpg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181230_jpg.rf.cf659f89e6a6da47bd4bc936b2bf1f85.jpg",
+    "source": "IMG_20230731_181230_jpg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181234_jpg.rf.401ed37039fa8e2214c07a610cdf6f67.jpg",
+    "source": "IMG_20230731_181234_jpg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181413_jpg.rf.4a2cc0ce6c1daa3d13df38b30662afe8.jpg",
+    "source": "IMG_20230731_181413_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181413_jpg.rf.5d0c21f03611091df975c6c970e48a12.jpg",
+    "source": "IMG_20230731_181413_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181416_jpg.rf.0d655f14446050e68318bca7063e291b.jpg",
+    "source": "IMG_20230731_181416_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181420_jpg.rf.388925cd5992dfdd65615044a763596d.jpg",
+    "source": "IMG_20230731_181420_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181420_jpg.rf.d4aae6bc92562b54bfb7185c3791ef33.jpg",
+    "source": "IMG_20230731_181420_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181423_jpg.rf.b9fc2412f8168dca6f6556b3fc66e84e.jpg",
+    "source": "IMG_20230731_181423_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181428_jpg.rf.0f0269226b9f1ce999781570d13c7a5f.jpg",
+    "source": "IMG_20230731_181428_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181428_jpg.rf.25c2ef208dafa1c8294383b5ef07fa60.jpg",
+    "source": "IMG_20230731_181428_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181428_jpg.rf.b65366f5c9fb64aa7c7d8a47fcde6ac9.jpg",
+    "source": "IMG_20230731_181428_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181430_jpg.rf.9a05698c11bdd65a5d25ce776ac1844d.jpg",
+    "source": "IMG_20230731_181430_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181430_jpg.rf.9dcaa03c3ff81fb1f7239110e12d4027.jpg",
+    "source": "IMG_20230731_181430_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181431_jpg.rf.d69a76d5438e7ab98c1d3502a6baa3f3.jpg",
+    "source": "IMG_20230731_181431_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181431_jpg.rf.f64c1e7a0a19edbabe426676696423cf.jpg",
+    "source": "IMG_20230731_181431_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181436_jpg.rf.7315b5fc97e60276d14c04d86182908b.jpg",
+    "source": "IMG_20230731_181436_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181436_jpg.rf.91fe04d0026c786e78f788cd584a35e9.jpg",
+    "source": "IMG_20230731_181436_jpg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181553_jpg.rf.02fdd40e65e227947e7085fe085b6bed.jpg",
+    "source": "IMG_20230731_181553_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181553_jpg.rf.6a5b0f0ba4b9e50e0b3ffeea0557fea1.jpg",
+    "source": "IMG_20230731_181553_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181553_jpg.rf.855087aee800fc5fc8ec6a8cfe7c2495.jpg",
+    "source": "IMG_20230731_181553_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181554_jpg.rf.012823c96f2d3bd6bcfb93c68326b403.jpg",
+    "source": "IMG_20230731_181554_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181554_jpg.rf.f0d9e2ade9634d0a353319795c1b799c.jpg",
+    "source": "IMG_20230731_181554_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181556_jpg.rf.6b2b37659939e25233995408bd555439.jpg",
+    "source": "IMG_20230731_181556_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181557_jpg.rf.809d80d2d1d2b09c01f105ea2704145e.jpg",
+    "source": "IMG_20230731_181557_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181618_jpg.rf.62e757c364f373a84efbd770ae3266ae.jpg",
+    "source": "IMG_20230731_181618_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181618_jpg.rf.b68464bf72565c2341b372b37f5e5569.jpg",
+    "source": "IMG_20230731_181618_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181618_jpg.rf.f3e4ff34c266ca8b83db6bce36a38d5f.jpg",
+    "source": "IMG_20230731_181618_jpg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181825_jpg.rf.cdb8b141d56e393e355a93d1be960276.jpg",
+    "source": "IMG_20230731_181825_jpg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181836_jpg.rf.b99f91bf42137d2f96b37d7fca7a852e.jpg",
+    "source": "IMG_20230731_181836_jpg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181842_jpg.rf.ebe816b6a35ac075e8fd5173159ca823.jpg",
+    "source": "IMG_20230731_181842_jpg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181844_jpg.rf.16934e38454f312106b2436cd4e09935.jpg",
+    "source": "IMG_20230731_181844_jpg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181952_jpg.rf.0d8a38603bda5bc301530f6abb9f14c4.jpg",
+    "source": "IMG_20230731_181952_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181952_jpg.rf.f9aef1221c566484d2b7793debd7cc7e.jpg",
+    "source": "IMG_20230731_181952_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181958_jpg.rf.0ae6a1e13e1c25bbd6e0515665c84e99.jpg",
+    "source": "IMG_20230731_181958_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181958_jpg.rf.e7dd621aec13f73f757b63acdcf23d0f.jpg",
+    "source": "IMG_20230731_181958_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_181958_jpg.rf.f16fc72fb9ad3055c027f2893cd9d53d.jpg",
+    "source": "IMG_20230731_181958_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182000_jpg.rf.8df0e71e1a965ead8826ca338981d2ad.jpg",
+    "source": "IMG_20230731_182000_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182000_jpg.rf.9a340de8fae497da30f36094e4b7c91c.jpg",
+    "source": "IMG_20230731_182000_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182002_jpg.rf.e50bc32b3b2c3323fa83557e8303f059.jpg",
+    "source": "IMG_20230731_182002_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182006_jpg.rf.722931da05f2562f518dfa7c4b0af58a.jpg",
+    "source": "IMG_20230731_182006_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182006_jpg.rf.9bd43293fffe30757c9d515440cd0b5d.jpg",
+    "source": "IMG_20230731_182006_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182006_jpg.rf.a31f70e40597845ea262566038e90a47.jpg",
+    "source": "IMG_20230731_182006_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182015_jpg.rf.6f7ac653a50b590ba29d856351fcf4fb.jpg",
+    "source": "IMG_20230731_182015_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182018_jpg.rf.07872f9b9b1000bca70507cf1086fbf8.jpg",
+    "source": "IMG_20230731_182018_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182018_jpg.rf.a0025b70ac51101d1551210d96f37148.jpg",
+    "source": "IMG_20230731_182018_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182020_jpg.rf.612a9abad44b655115cf1f97ce60f694.jpg",
+    "source": "IMG_20230731_182020_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182026_jpg.rf.6da899523d29eb196d3d4578dfc17bfe.jpg",
+    "source": "IMG_20230731_182026_jpg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182201_jpg.rf.afab7b923b4bc7f7b6636edd554c0746.jpg",
+    "source": "IMG_20230731_182201_jpg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182210_jpg.rf.842e067d2fdfe0eed464fea8312ac356.jpg",
+    "source": "IMG_20230731_182210_jpg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182539_jpg.rf.1356da6ce088ffd8bf0192b7f73b747e.jpg",
+    "source": "IMG_20230731_182539_jpg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182539_jpg.rf.fa8025618a1edc9a670248cad95ec09e.jpg",
+    "source": "IMG_20230731_182539_jpg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182544_jpg.rf.272e4d084b5c7cbbcb3bc305bb08578e.jpg",
+    "source": "IMG_20230731_182544_jpg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182544_jpg.rf.32d5257f88149fb0ec0a17ddfb7b879c.jpg",
+    "source": "IMG_20230731_182544_jpg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182649_jpg.rf.0e5090e51bec104a47a3da441215d533.jpg",
+    "source": "IMG_20230731_182649_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182649_jpg.rf.bd0e48db515741ec53d6ce6dd3add9fe.jpg",
+    "source": "IMG_20230731_182649_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182655_jpg.rf.45e0e5acd5087162a34bcbee080ba4ac.jpg",
+    "source": "IMG_20230731_182655_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182655_jpg.rf.80cf82a8656b0c5d3e472f7a37f8c95c.jpg",
+    "source": "IMG_20230731_182655_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182657_jpg.rf.8129e4824769c7af5d3854747bb08473.jpg",
+    "source": "IMG_20230731_182657_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182657_jpg.rf.fa56ff7527c11da94b1040ae101ac1fb.jpg",
+    "source": "IMG_20230731_182657_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182721_jpg.rf.5708dc626a58ad375ec90d1cd7463d57.jpg",
+    "source": "IMG_20230731_182721_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182723_jpg.rf.7964b422e4e45d5783984e54924f8f02.jpg",
+    "source": "IMG_20230731_182723_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182725_jpg.rf.cf24c2e74a16c21dbbd0a2a04684c7d5.jpg",
+    "source": "IMG_20230731_182725_jpg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182829_jpg.rf.1f802b886a759d57a9f41fb0bc341ed3.jpg",
+    "source": "IMG_20230731_182829_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182839_jpg.rf.43e49079df0f7eedd62dee5dbce25c1d.jpg",
+    "source": "IMG_20230731_182839_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182839_jpg.rf.69ab42d01988bc6b81a708a13491b4cc.jpg",
+    "source": "IMG_20230731_182839_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182851_jpg.rf.aad5b5311961a22cacf05a02ed047276.jpg",
+    "source": "IMG_20230731_182851_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182853_jpg.rf.20c13275ad167ef4ce95b29cf3808daf.jpg",
+    "source": "IMG_20230731_182853_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182853_jpg.rf.6c16c70e6ad66c7634a6827713989530.jpg",
+    "source": "IMG_20230731_182853_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182855_jpg.rf.4083c32d5b449cd6d1d9f79d70bf591c.jpg",
+    "source": "IMG_20230731_182855_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182855_jpg.rf.8d9ef5eaa405212bffe5f55d3d24bd0a.jpg",
+    "source": "IMG_20230731_182855_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182858_jpg.rf.b39e82e7a9bd293743977262cca34b89.jpg",
+    "source": "IMG_20230731_182858_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182900_jpg.rf.074506c6a279500fddef05deb9db2932.jpg",
+    "source": "IMG_20230731_182900_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_182900_jpg.rf.dd3421e13edb03f47ee803a5727621ec.jpg",
+    "source": "IMG_20230731_182900_jpg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183007_jpg.rf.8a830eef3d27de598063de6a7f376b4c.jpg",
+    "source": "IMG_20230731_183007_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183007_jpg.rf.cc909c515014f5c3466dca4d343dec2b.jpg",
+    "source": "IMG_20230731_183007_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183010_jpg.rf.151795d4482b1dbf875aa2b7b3bff96c.jpg",
+    "source": "IMG_20230731_183010_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183010_jpg.rf.49e9d498c9fb991267b699af7c35072c.jpg",
+    "source": "IMG_20230731_183010_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183010_jpg.rf.97055d7221beae821abd8b5a53627b2c.jpg",
+    "source": "IMG_20230731_183010_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183014_jpg.rf.ea0f829bb0ae1846c2e09b556a8cfc51.jpg",
+    "source": "IMG_20230731_183014_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183016_jpg.rf.3c641d87a24f6e59e43400e0fe212709.jpg",
+    "source": "IMG_20230731_183016_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183016_jpg.rf.827779793e3dd266789b9efd05279f65.jpg",
+    "source": "IMG_20230731_183016_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183016_jpg.rf.cd99b495e620db4e3fe498488b446387.jpg",
+    "source": "IMG_20230731_183016_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183018_jpg.rf.307b2c217c8103c72d6393b89586cfae.jpg",
+    "source": "IMG_20230731_183018_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183018_jpg.rf.8bbba800eb57b976b15a9c6ca40da960.jpg",
+    "source": "IMG_20230731_183018_jpg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183202_jpg.rf.357a9c5759e2ae4ad7a3d80f9727664d.jpg",
+    "source": "IMG_20230731_183202_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183204_jpg.rf.370ad698b57ec9a344790c423ee4bd29.jpg",
+    "source": "IMG_20230731_183204_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183208_jpg.rf.d829cbccaa059a8d88b9e06b6238001e.jpg",
+    "source": "IMG_20230731_183208_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183218_jpg.rf.15c0dcffe38cf63eb7c718c923567340.jpg",
+    "source": "IMG_20230731_183218_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183218_jpg.rf.4c882ffce1a10600c64c3faf4451854b.jpg",
+    "source": "IMG_20230731_183218_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183218_jpg.rf.8b897b7466a1bf392a013a91072f6399.jpg",
+    "source": "IMG_20230731_183218_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183222_jpg.rf.c6a62fc2e841d7895f4eead0b420f3dd.jpg",
+    "source": "IMG_20230731_183222_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183224_jpg.rf.4ce3933ff3a6d74fed88e1875264e992.jpg",
+    "source": "IMG_20230731_183224_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183227_jpg.rf.26f7928235d5e47f13b0426e45d3e18e.jpg",
+    "source": "IMG_20230731_183227_jpg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183403_jpg.rf.072444ad354fe1527337c3f740b1364a.jpg",
+    "source": "IMG_20230731_183403_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183403_jpg.rf.31a97b08c00a84ce9462634cb085ba99.jpg",
+    "source": "IMG_20230731_183403_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183403_jpg.rf.50893fa90fbfbfa72d35de5aa75d3156.jpg",
+    "source": "IMG_20230731_183403_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183411_jpg.rf.3625bdf7e69ff2039fbe57f23984fb35.jpg",
+    "source": "IMG_20230731_183411_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183411_jpg.rf.76395ef45b775af12b3f0e8ca0a0a423.jpg",
+    "source": "IMG_20230731_183411_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183413_jpg.rf.59e5cae0d5dc298c989ceea70fb3d271.jpg",
+    "source": "IMG_20230731_183413_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183413_jpg.rf.c67d7fdbdb64f4143bbc2f4df6dace7f.jpg",
+    "source": "IMG_20230731_183413_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183416_jpg.rf.8214fc7f4b534573a81662e1e9d10998.jpg",
+    "source": "IMG_20230731_183416_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183416_jpg.rf.a7d766595bebfc4d64b530e2ddcb8da3.jpg",
+    "source": "IMG_20230731_183416_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183425_jpg.rf.95671b04a89e173584e436a3d6acf658.jpg",
+    "source": "IMG_20230731_183425_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183425_jpg.rf.b3ba43439e150c0c1d31af82b1b39060.jpg",
+    "source": "IMG_20230731_183425_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183425_jpg.rf.db7631907ffd7bb20de047bf761fe5b6.jpg",
+    "source": "IMG_20230731_183425_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183427_jpg.rf.1be926f702de4e9600da4f4dcafdc36e.jpg",
+    "source": "IMG_20230731_183427_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183427_jpg.rf.4119d26391069c13f96be6da553f1670.jpg",
+    "source": "IMG_20230731_183427_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183427_jpg.rf.bff389adb9b08d6b33067f5395633432.jpg",
+    "source": "IMG_20230731_183427_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183430_jpg.rf.a274f5914246e4098135453dcf563724.jpg",
+    "source": "IMG_20230731_183430_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183430_jpg.rf.bfb235f50d067369c3bc5d825e2da8d7.jpg",
+    "source": "IMG_20230731_183430_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_20230731_183430_jpg.rf.f7e5bfb1c3496a51c19f54be8f69cecf.jpg",
+    "source": "IMG_20230731_183430_jpg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7669_PNG.rf.2cbc712cebe114c5d3a9e420e9f3b1d4.jpg",
+    "source": "IMG_7669_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7669_PNG.rf.3142fbdd6eadd840a77ba4087a0cdc1a.jpg",
+    "source": "IMG_7669_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7669_PNG.rf.8fbc70cacc8adc173cd3b8e327676407.jpg",
+    "source": "IMG_7669_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7670_PNG.rf.187ee65472d9125929c3ff6627370b3d.jpg",
+    "source": "IMG_7670_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7670_PNG.rf.7b547ec9af4924b51750d12ffc81e8dd.jpg",
+    "source": "IMG_7670_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7670_PNG.rf.c5ef0ad8aeda015f85611da5856d8b4b.jpg",
+    "source": "IMG_7670_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7671_PNG.rf.341ade268f82003cf98f538dd9700f51.jpg",
+    "source": "IMG_7671_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7671_PNG.rf.af0a4b23bc02b42a6e06992c3e9d828e.jpg",
+    "source": "IMG_7671_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7671_PNG.rf.e312991f6531aab3f038f7e4789ef2b3.jpg",
+    "source": "IMG_7671_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7672_PNG.rf.0d704465ee31fb0f35ff3d651af315fd.jpg",
+    "source": "IMG_7672_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7672_PNG.rf.6dc8fd926c996dcd074fa075571b9941.jpg",
+    "source": "IMG_7672_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7672_PNG.rf.8fb229e36718002b88ce26ff643d1864.jpg",
+    "source": "IMG_7672_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7673_PNG.rf.4d68f36eb630a5543e8f9a81819ab77a.jpg",
+    "source": "IMG_7673_PNG",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7674_PNG.rf.d0f92fbc97393f5e8ae99de0cc8f45f5.jpg",
+    "source": "IMG_7674_PNG",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7675_PNG.rf.35d8e84a326c425792b7c0196f4c0a02.jpg",
+    "source": "IMG_7675_PNG",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7675_PNG.rf.9ea1fc82c6e7acabef3c9c42454ae63b.jpg",
+    "source": "IMG_7675_PNG",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7676_PNG.rf.77e091b66dc39552cdaca5bf198f2224.jpg",
+    "source": "IMG_7676_PNG",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7677_PNG.rf.832341a17320920d519f4908478e36a7.jpg",
+    "source": "IMG_7677_PNG",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7678_PNG.rf.2d8de82dcefae2785293b66f277b806b.jpg",
+    "source": "IMG_7678_PNG",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7678_PNG.rf.a9c3b951072d4b5e0000cb08aaa35519.jpg",
+    "source": "IMG_7678_PNG",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7680_PNG.rf.6d65567ef3c053d6e45deb031f4264eb.jpg",
+    "source": "IMG_7680_PNG",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7681_PNG.rf.adb47534ad043ca671e9a3a70cdae1ea.jpg",
+    "source": "IMG_7681_PNG",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7682_PNG.rf.9bcf8cd59a9ce0662182884e7bbd3c7c.jpg",
+    "source": "IMG_7682_PNG",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7695_PNG.rf.90e13d43acf8f078432fe58387b775de.jpg",
+    "source": "IMG_7695_PNG",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7695_PNG.rf.c1cbf9c5bbbf44888575f5ebfa358913.jpg",
+    "source": "IMG_7695_PNG",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7696_PNG.rf.382115172caf8bcef9cfb401cd4fa4c7.jpg",
+    "source": "IMG_7696_PNG",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7696_PNG.rf.4e0de23e34f468f81ab87a63bf20a6aa.jpg",
+    "source": "IMG_7696_PNG",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7700_PNG.rf.127bcefcb8ebf4f8ccff6ef2c4df2d1a.jpg",
+    "source": "IMG_7700_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7700_PNG.rf.4f5f679eb75de7218e7a10251de826e4.jpg",
+    "source": "IMG_7700_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7700_PNG.rf.f2e8a81d04d330b5dae6b4bc120bad9e.jpg",
+    "source": "IMG_7700_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7701_PNG.rf.12198dfc129955c8cc179bf4e6a593df.jpg",
+    "source": "IMG_7701_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7701_PNG.rf.40fca9d3ae014dc1d1ee59bc73a2b677.jpg",
+    "source": "IMG_7701_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7702_PNG.rf.367d30d57887eeef265d511971f2ec2a.jpg",
+    "source": "IMG_7702_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7702_PNG.rf.387a04c57aaee29b04282011515761b3.jpg",
+    "source": "IMG_7702_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7702_PNG.rf.5e6906a954646dc2c5bc76ed0934c9da.jpg",
+    "source": "IMG_7702_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7703_PNG.rf.154c6e3270bd1f03e7393148f4c429cb.jpg",
+    "source": "IMG_7703_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7703_PNG.rf.65ab7baaa89b048bfff461aacd4c9741.jpg",
+    "source": "IMG_7703_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7703_PNG.rf.f3d9f97ae71c39b569a718cd61f3b2c9.jpg",
+    "source": "IMG_7703_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7704_PNG.rf.0e78ecc31c2266dbedec00b4536a9d79.jpg",
+    "source": "IMG_7704_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7704_PNG.rf.4b1f8468e565a0e2f5416c915d99ce06.jpg",
+    "source": "IMG_7704_PNG",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7706_PNG.rf.24511d181bf2ab583d8818458002b464.jpg",
+    "source": "IMG_7706_PNG",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7707_PNG.rf.d770b2df5b0e509311270b1ab0038f94.jpg",
+    "source": "IMG_7707_PNG",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7708_PNG.rf.aed162379f7d9af0db48403e731dba41.jpg",
+    "source": "IMG_7708_PNG",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7709_PNG.rf.6be4ff480d3a58a74da933a2c17520cf.jpg",
+    "source": "IMG_7709_PNG",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7711_PNG.rf.917cfcdf83f763e46ccf3606d854065e.jpg",
+    "source": "IMG_7711_PNG",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7712_PNG.rf.2aaeb50c4c9f44f9b7511ac3ece12bce.jpg",
+    "source": "IMG_7712_PNG",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7712_PNG.rf.bd2047b615c7042e0c9295edbb09faab.jpg",
+    "source": "IMG_7712_PNG",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7713_PNG.rf.6dbe555dfc1a73c7dadea345948bc824.jpg",
+    "source": "IMG_7713_PNG",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7713_PNG.rf.7a6984e02e0e564be81fb30004d4b930.jpg",
+    "source": "IMG_7713_PNG",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7714_PNG.rf.9886c5c43319cc7fb6ce1c9368242de1.jpg",
+    "source": "IMG_7714_PNG",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7714_PNG.rf.98c3fdd0f7900689f23530e515e8c747.jpg",
+    "source": "IMG_7714_PNG",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7717_PNG.rf.5f5b6710a070ea766135863b91ef8a6f.jpg",
+    "source": "IMG_7717_PNG",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7718_PNG.rf.3ca1c5342bdf69e5f173b0834243ce93.jpg",
+    "source": "IMG_7718_PNG",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7718_PNG.rf.4448646831a71d0d0ea16b36c62d22cd.jpg",
+    "source": "IMG_7718_PNG",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7720_PNG.rf.13a66d5e6a15000501effd1f57e39ddf.jpg",
+    "source": "IMG_7720_PNG",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7720_PNG.rf.b368886d4b30c85ad8fb2708dcba11cf.jpg",
+    "source": "IMG_7720_PNG",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7721_PNG.rf.53538697d1dcc17d3b2b176db019774e.jpg",
+    "source": "IMG_7721_PNG",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7722_PNG.rf.0ee6dd450a53093ce06e2a31765d0f70.jpg",
+    "source": "IMG_7722_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7722_PNG.rf.c1b655a772831d5f63c8b4ea04633ace.jpg",
+    "source": "IMG_7722_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7722_PNG.rf.d6e8872b95a004a0266a4a010f773ced.jpg",
+    "source": "IMG_7722_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7723_PNG.rf.3cab8e8442f80eec84102297b02bfb2a.jpg",
+    "source": "IMG_7723_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7723_PNG.rf.5fa1ab65c4b23e1ae027485fd7e280d5.jpg",
+    "source": "IMG_7723_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7723_PNG.rf.aa15c11d46d36d26159bcd8bb9e21000.jpg",
+    "source": "IMG_7723_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7724_PNG.rf.11640094c55aa7a4b2fb8d296f4d46e0.jpg",
+    "source": "IMG_7724_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7724_PNG.rf.2d05f22df1ddaf1859d82c3abcfd689d.jpg",
+    "source": "IMG_7724_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7724_PNG.rf.8a4a774ef79f7a74b77eea53e1366a44.jpg",
+    "source": "IMG_7724_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7725_PNG.rf.2ad2403c55817891a33d3590df774593.jpg",
+    "source": "IMG_7725_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7725_PNG.rf.3c726640a81ed6b21cfd523423c7695f.jpg",
+    "source": "IMG_7725_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7725_PNG.rf.80fb6c82a9a6355fa29b0000a3dc294e.jpg",
+    "source": "IMG_7725_PNG",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7730_PNG.rf.7b0ec46792c38e9eddbe9b333a82b666.jpg",
+    "source": "IMG_7730_PNG",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7731_PNG.rf.80dab8e4b4b51aec255da00132f41f4b.jpg",
+    "source": "IMG_7731_PNG",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7733_PNG.rf.a6bb6f2f49e80a2a28cb0ef27fd718ec.jpg",
+    "source": "IMG_7733_PNG",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7735_PNG.rf.1f6408972820ad9ddb835d1f79e639a2.jpg",
+    "source": "IMG_7735_PNG",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7735_PNG.rf.6f11cea10ecd4b76ee8191e2b826425d.jpg",
+    "source": "IMG_7735_PNG",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7735_PNG.rf.d6c0a6c0a23c6ae3b5a09ba35617b2af.jpg",
+    "source": "IMG_7735_PNG",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7737_PNG.rf.d7d0698c46eff467d0f437cab041f68e.jpg",
+    "source": "IMG_7737_PNG",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7738_PNG.rf.a720677f928b9b07f058986c0ec16114.jpg",
+    "source": "IMG_7738_PNG",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7738_PNG.rf.dea9283077250af1a80351d99a69b271.jpg",
+    "source": "IMG_7738_PNG",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7740_PNG.rf.76adca44ee0677dcec17e8e9c0e40230.jpg",
+    "source": "IMG_7740_PNG",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7742_PNG.rf.07a4a9ee70eacd4e34e72abbd89e2d92.jpg",
+    "source": "IMG_7742_PNG",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7743_PNG.rf.bc0327193843f162564ce161a966d4c8.jpg",
+    "source": "IMG_7743_PNG",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7743_PNG.rf.fed6b5e3e0b93c18436420dbf62986a8.jpg",
+    "source": "IMG_7743_PNG",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7744_PNG.rf.266e1bba10d748d7294a18f19e0b25d6.jpg",
+    "source": "IMG_7744_PNG",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7745_PNG.rf.2214cf2c8ecb860f9d3feb52c7ee9a14.jpg",
+    "source": "IMG_7745_PNG",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7745_PNG.rf.e703e1d1ebdbe50025abdc3e9a07bcb5.jpg",
+    "source": "IMG_7745_PNG",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7746_PNG.rf.cb810e2efedd90ae016f092bcc2303a8.jpg",
+    "source": "IMG_7746_PNG",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7746_PNG.rf.d5db0b039376b6d29ab3505b4ce977ff.jpg",
+    "source": "IMG_7746_PNG",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7747_PNG.rf.09c8a05eded972325d01b4c01fffd093.jpg",
+    "source": "IMG_7747_PNG",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7747_PNG.rf.663500448ee3bd8bb81598443cb55066.jpg",
+    "source": "IMG_7747_PNG",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7748_PNG.rf.6b55a90ed681d87d71264fa9dfc7b081.jpg",
+    "source": "IMG_7748_PNG",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7749_PNG.rf.ca83e047cf525ebb9668a9e01daa9e86.jpg",
+    "source": "IMG_7749_PNG",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7750_PNG.rf.6ae1c53dd5e879b92659011628ab86dd.jpg",
+    "source": "IMG_7750_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7750_PNG.rf.dc4ab797c3bc50a264b548f254df8096.jpg",
+    "source": "IMG_7750_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7750_PNG.rf.fa67868bc725700c60a7987132c21f13.jpg",
+    "source": "IMG_7750_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7751_PNG.rf.25f5d0112f1a30bf21a7ed6a62161f1d.jpg",
+    "source": "IMG_7751_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7751_PNG.rf.a711345b39ca02ca5ce06b256c731545.jpg",
+    "source": "IMG_7751_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7751_PNG.rf.e4c0d9ffd3fe93730f19f07025f658ec.jpg",
+    "source": "IMG_7751_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7752_PNG.rf.85291547ffa3c91fad6062fa67430abc.jpg",
+    "source": "IMG_7752_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7752_PNG.rf.df09cb1c516ead73afeae47656e52f61.jpg",
+    "source": "IMG_7752_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7753_PNG.rf.1c6574583f9b42c0ab8b8f7868454924.jpg",
+    "source": "IMG_7753_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7753_PNG.rf.5dce95dfc17481bf9fa759453bb4cbc2.jpg",
+    "source": "IMG_7753_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7753_PNG.rf.88f31a38e119f93d405dd75efff179c3.jpg",
+    "source": "IMG_7753_PNG",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7759_PNG.rf.e3dddd1da9469e53a3dbb5d436a10e41.jpg",
+    "source": "IMG_7759_PNG",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7759_PNG.rf.f75add58578ba0577cd5097e6c1918f1.jpg",
+    "source": "IMG_7759_PNG",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7760_PNG.rf.3b5eea09e27592c91cf51a8fda9bc780.jpg",
+    "source": "IMG_7760_PNG",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7761_PNG.rf.f67d4b3142c5f186cb305f212fcd789d.jpg",
+    "source": "IMG_7761_PNG",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7761_PNG.rf.f8d67de99c64415a229c6ff5c0f3cf7f.jpg",
+    "source": "IMG_7761_PNG",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7762_PNG.rf.5f771900f53d93b6ca827070b662d00f.jpg",
+    "source": "IMG_7762_PNG",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7763_PNG.rf.4f4522953ce0f59979d5c8498baf9ccb.jpg",
+    "source": "IMG_7763_PNG",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7764_PNG.rf.6af625a6140288710840a36853500867.jpg",
+    "source": "IMG_7764_PNG",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7765_PNG.rf.58e1082f8d8cdc165d2f0d608b111952.jpg",
+    "source": "IMG_7765_PNG",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7765_PNG.rf.6984aa34117b510013aea99111b36654.jpg",
+    "source": "IMG_7765_PNG",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7766_PNG.rf.8ec96d3c00e9c58508470024e8e9cf12.jpg",
+    "source": "IMG_7766_PNG",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7766_PNG.rf.930250a629066242b6f3d87cd072ed22.jpg",
+    "source": "IMG_7766_PNG",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7766_PNG.rf.df766655e550cde1ebc5195afca6c17d.jpg",
+    "source": "IMG_7766_PNG",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7772_PNG.rf.25cd9e70fb88cd8951e1ca3bd12a6cca.jpg",
+    "source": "IMG_7772_PNG",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7772_PNG.rf.a10d21d6d094b26aeb862e4d7091de0c.jpg",
+    "source": "IMG_7772_PNG",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7773_PNG.rf.1a1a5cb965685b560272667f3b15867b.jpg",
+    "source": "IMG_7773_PNG",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7773_PNG.rf.5a97cb8d0ebc22c15d8b5a4fc5efaabd.jpg",
+    "source": "IMG_7773_PNG",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7773_PNG.rf.72ddb9f7f3f5137f934947756cdb1fdf.jpg",
+    "source": "IMG_7773_PNG",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7775_PNG.rf.420279cdc55b8dcd2026ab84ad485e7b.jpg",
+    "source": "IMG_7775_PNG",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7775_PNG.rf.e2c02a734eb889f7ddf179265e086985.jpg",
+    "source": "IMG_7775_PNG",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7775_PNG.rf.e8fdee0364491f6d8ee77c6f809c2a27.jpg",
+    "source": "IMG_7775_PNG",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7776_PNG.rf.d4f0266314e6e9399afaccfcff2cfbd0.jpg",
+    "source": "IMG_7776_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7777_PNG.rf.9966b5d0bb266b45aa75eef5a50a715d.jpg",
+    "source": "IMG_7777_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7777_PNG.rf.d71e3cd620da4c190951dc7b4a207f91.jpg",
+    "source": "IMG_7777_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7778_PNG.rf.843fe8a31d298d4f35090abbd67fe11d.jpg",
+    "source": "IMG_7778_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7779_PNG.rf.03f9f44d5a5da7ebc77bea3d3c97605d.jpg",
+    "source": "IMG_7779_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7779_PNG.rf.83208fd3d1deda81bf1514703da4fbe7.jpg",
+    "source": "IMG_7779_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7779_PNG.rf.c694b0978f63fbfd8f4ad53d1ca632aa.jpg",
+    "source": "IMG_7779_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7780_PNG.rf.980e437806e1a61512037edd97fd278e.jpg",
+    "source": "IMG_7780_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7780_PNG.rf.bb8c9458d343eca616882100ea2d1765.jpg",
+    "source": "IMG_7780_PNG",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7782_PNG.rf.1ebca2dc2d9e97174a11e566f8cc253e.jpg",
+    "source": "IMG_7782_PNG",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7783_PNG.rf.59914df1cf7d7d162b22e0a734687aad.jpg",
+    "source": "IMG_7783_PNG",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7790_PNG.rf.e43657eb6ceb7a4adb9d7ca68cc6ef2a.jpg",
+    "source": "IMG_7790_PNG",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7794_PNG.rf.0190dd5317eeac3b21d7be5c37ccb2ff.jpg",
+    "source": "IMG_7794_PNG",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7795_PNG.rf.078d6e16915676ab1234365dd6cbb30e.jpg",
+    "source": "IMG_7795_PNG",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7798_PNG.rf.daed69c34de19a870e0a267523b59ce9.jpg",
+    "source": "IMG_7798_PNG",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7798_PNG.rf.e7da78bee58f825666b3b99392014ed6.jpg",
+    "source": "IMG_7798_PNG",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\IMG_7798_PNG.rf.f90505eabeeb71820167cd864659312a.jpg",
+    "source": "IMG_7798_PNG",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-04-1-_jpeg.rf.16c5fa89d40e883949233776ea66a6a7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-04-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-04-1-_jpeg.rf.3ac3910ac807087178a180f946bee4a0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-04-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-04-1-_jpeg.rf.7ee98da4577121b829fd0bae0b327b95.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-04-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-04_jpeg.rf.1dd239bad14ade4b71912a1023ad77a8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-04_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-05-1-_jpeg.rf.4bc05fa183c28f8c24a42bc020c8e504.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-05-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-05-1-_jpeg.rf.d3ce908bd348e9d16b6cb6654a0bafab.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-05-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-05-2-_jpeg.rf.1ad1b0e9a75b74a5b2f146047a8077fe.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-05-2-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-05-2-_jpeg.rf.38ffec64d39af0c89ac43cfa01b7e8c7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-05-2-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-05_jpeg.rf.034d904f4fd2b0fe20385f9092b2ed21.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-05_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-05_jpeg.rf.c2481bb92019cdaa9e8f446a8bea5726.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-05_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-06-1-_jpeg.rf.6a943dcd4d736571970bb054b56c9d78.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-06-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-06-1-_jpeg.rf.b4c7f4875fc86b1afee6ff9eda574a4b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-06-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-06_jpeg.rf.ae93e4436f5b96908d1a7a2a00d9e5d0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-06_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-06_jpeg.rf.c28053abd54d9e3135ba93d61ebdcd7b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-06_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-07-1-_jpeg.rf.5fb3b52ef6cc802944d3eb9277924412.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-07-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-07-1-_jpeg.rf.7c2000d5c2007973458e61c3003de146.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-07-1-_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-07_jpeg.rf.a6076c2166bcfe889e7ed4ff04e9f496.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-07_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-08_jpeg.rf.5c273c9678b789ee65a190b3252258cd.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-08_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-36-08_jpeg.rf.864c3adc699a3bc71af8fa9424c0188d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-36-08_jpeg",
+    "label": "A",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-24_jpeg.rf.05cadeecc29e278a0b37a4423cbfd289.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-24_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-24_jpeg.rf.7c8fffb1f8f3eb4d3c15d7e17c1e28a5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-24_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-25-1-_jpeg.rf.019bc8e3da500f44792b219df15e31e9.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-25-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-25-1-_jpeg.rf.0c9384d36ee7d4f93c5a8028954cd436.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-25-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-25-2-_jpeg.rf.24fc5ca8031207eb730e402419ffdaab.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-25-2-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-25-2-_jpeg.rf.9252385f3a0a6cc0fe940b9c612741b5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-25-2-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-25-2-_jpeg.rf.b708130b4cfcb4642355e15cfa94ec08.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-25-2-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-25_jpeg.rf.3361d796a0999ec2ec37c15140a5eed7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-25_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-25_jpeg.rf.49bd6228e4cbb2a01d977b0483097087.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-25_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-25_jpeg.rf.7a46e31f52d4bb4d176e79f62dee3882.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-25_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-26-1-_jpeg.rf.12cfc4464707bee66ffbfea3cbfbd001.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-26-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-26-1-_jpeg.rf.bd70c06e8b952be544651836beeef010.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-26-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-26-1-_jpeg.rf.da60c847cc7d905053778bc4294f3449.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-26-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-26_jpeg.rf.5f5493c53c225da41c17a73afd384db8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-26_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-26_jpeg.rf.669aaea8d76ad6ebd94845874f6cca06.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-26_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-26_jpeg.rf.79702454b4c33d250d96fde2448ddae1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-26_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-27-1-_jpeg.rf.842978635ea7364179dc44fef5971e3c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-27-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-27-1-_jpeg.rf.95969ccc38a3e9e71b6c59f9e64cb93f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-27-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-27-1-_jpeg.rf.b5e3bcbb755f8337b9b3225b7c4fc43e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-27-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-27_jpeg.rf.11616d1290927bb5a167264d7a0bf190.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-27_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-27_jpeg.rf.d772b5b79fa76843bbbc6de775f91d71.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-27_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-28-1-_jpeg.rf.048b7c1e74922cda88929d01c2b60728.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-28-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-28-1-_jpeg.rf.8778302d6f161af80429d01066c13cdc.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-28-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-28-1-_jpeg.rf.96ad132dbc89ce69b4644265298316a0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-28-1-_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-28_jpeg.rf.2479758bacbfe217b49c26e243c75d94.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-28_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-28_jpeg.rf.c4415c4708327ecd77383cc5f80aff36.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-28_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-41-28_jpeg.rf.f800f94e58a8b44ee3be5011f0c41662.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-41-28_jpeg",
+    "label": "B",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-07-1-_jpeg.rf.0e8ce7020593db133e2fae045ac05949.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-07-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-07-1-_jpeg.rf.531330baa87831207aa36cfb51af8671.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-07-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-07_jpeg.rf.8554fd952cb41d7cf642168f2970f76b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-07_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-07_jpeg.rf.d588c041f24d2cdd9a7e9bbe54494911.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-07_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-08-1-_jpeg.rf.3a1d8b59f3f881afbe1c3509489c9bf3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-08-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-08-1-_jpeg.rf.8122825d4dbc836c8f58a13389cde89d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-08-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-08-1-_jpeg.rf.8661db55303d62b06f6d171deb4e7b9d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-08-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-08_jpeg.rf.0884ec36e34d8356fef904b5dd28f72d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-08_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-08_jpeg.rf.44b13f17f019a7cf2dd1cd4fb4793400.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-08_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-08_jpeg.rf.a34288c3656a4e3f6ae69833be7071a2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-08_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-09-1-_jpeg.rf.2e857b0ee4c3934a3e1583d1065c3a0c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-09-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-09_jpeg.rf.daafd757c29136501a01254f798194ac.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-09_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-09_jpeg.rf.fa2ad65309b3a4a323688147b61c202a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-09_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-09_jpeg.rf.fd4ec269b283aa3c29fe640a83368aaa.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-09_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-10-1-_jpeg.rf.40290c7687805a6adbf69a499bbf59a2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-10-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-10-1-_jpeg.rf.828286d99d059f24a32e9ce2ed565c0a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-10-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-10-1-_jpeg.rf.bb55c25a6dc1d1710636bb297710875a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-10-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-10_jpeg.rf.3906e5f27db7c7ef51e87fec6a5d878e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-10_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-11-1-_jpeg.rf.27e979868f8706a5a0bb534fced71821.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-11-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-11-1-_jpeg.rf.2e5ada6ebdb0c9613887936e42ad1528.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-11-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-11-1-_jpeg.rf.4a6b7510ec5e8d0c49a2bc1c846bed06.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-11-1-_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-11_jpeg.rf.24532aa3dab733f53ab256d4577f3181.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-11_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-11_jpeg.rf.6d185b7b738e5130682ae9485d72e2ef.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-11_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-47-11_jpeg.rf.6ee9167bee1e633f7e9b3af9599604a2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-47-11_jpeg",
+    "label": "C",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-52-58_jpeg.rf.c20a3fb0c073f46caf3f1be7927429a2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-52-58_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-52-58_jpeg.rf.c51d6de06d95cfcf4cafc273aa408165.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-52-58_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-52-59_jpeg.rf.5bb9e56f1acc7352cfc88ed5429c491e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-52-59_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-52-59_jpeg.rf.8e8d03b30f24db72c913b7759c8843a1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-52-59_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-52-59_jpeg.rf.a9ef1323ae86def7e7eb4d9d250cdc31.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-52-59_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-00-1-_jpeg.rf.c0cc73435bf14d6a481064a6b6eb85fb.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-00-1-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-00_jpeg.rf.61308a028984690cc2aacdc8feefba61.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-00_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-00_jpeg.rf.bdff56f9221d78a4c985a9f6924fdedd.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-00_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-01-1-_jpeg.rf.7be56177aef267ebedd28c6cd23de2cf.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-01-1-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-01-1-_jpeg.rf.ae695acf14d32c2ac118b62a18ef58b4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-01-1-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-01-1-_jpeg.rf.c8282e73733ef42e1df0fdf32c38833b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-01-1-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-01_jpeg.rf.2c88022b3dd0874be1ebbb78fff9ae22.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-01_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-02-1-_jpeg.rf.0adfd49c4ab4207ea0e94b984f009365.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-02-1-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-02-1-_jpeg.rf.7830477ce57f3b111349ffb6ebdd41c8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-02-1-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-02-1-_jpeg.rf.b340b1ad7e25c078a0a42066408c54d0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-02-1-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-02-2-_jpeg.rf.6640e122e2af38e7d4331e8c096492d1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-02-2-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-02-2-_jpeg.rf.7a0b88364df9462e1fb11ec5e61fab3b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-02-2-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-02-2-_jpeg.rf.ef7fb2cdff7238c239393357f80fb96c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-02-2-_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-02_jpeg.rf.08ed59dd720ebde143ed10032cee4cfb.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-02_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-02_jpeg.rf.a9e610144733aa563e9d97e4fe01dd47.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-02_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-03_jpeg.rf.456399d055ae80cc2f3eef8deff075c2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-03_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-03_jpeg.rf.b6abea3d935885e906de2820f8629cdb.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-03_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-53-03_jpeg.rf.bf64ccc5841c284cf9811e8496fc71e9.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-53-03_jpeg",
+    "label": "D",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-31-1-_jpeg.rf.77010b8b94bcc921ef421ef306a392e8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-31-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-31-1-_jpeg.rf.bf4bc4f7a3f4577408b6d261f6ed35cb.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-31-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-31-2-_jpeg.rf.7e7ea7698396d10572f1e4180cb0bbc3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-31-2-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-31-2-_jpeg.rf.fc67894b7a8599c270479de01b047bda.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-31-2-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-31_jpeg.rf.3825bdb291d6c8ff055c6c196c9435b8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-31_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-31_jpeg.rf.6ee025dc36579f2d071cea397e28a77f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-31_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-31_jpeg.rf.fbe801fbf383b9253046637f585ea8ea.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-31_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-32-1-_jpeg.rf.1f17a2270cfa93883a54dcaef776544b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-32-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-32-1-_jpeg.rf.20eafa354bf1a85e8813159b504f256a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-32-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-32-1-_jpeg.rf.340da9acb68fc98ef059521873772104.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-32-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-32_jpeg.rf.33071ef9aba608acb54fcdac72bd57d8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-32_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-32_jpeg.rf.6a344876a72cc0923324ff93ee41977d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-32_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-33-1-_jpeg.rf.5a14889b27fd7e27388d6fc82287bb9d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-33-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-33-1-_jpeg.rf.951c4c10c0ede1db504cd5e3995f06f4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-33-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-33-1-_jpeg.rf.a881dfadf23b49a392cb1c158796c4a5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-33-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-33_jpeg.rf.2a36991d3a9406028a9df60f4a710954.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-33_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-33_jpeg.rf.4730e38a54bd8948e07e9d68f333166f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-33_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-33_jpeg.rf.5a0e5a1e1850e4d98eed9409e1384eb1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-33_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-34_jpeg.rf.061f615d0747d8d666e1b99c71c94680.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-34_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-34_jpeg.rf.5451a7d6961edd46969b4cc524cde029.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-34_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-34_jpeg.rf.ab54a85602e6ff5f2480d5c187373bf5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-34_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-35-1-_jpeg.rf.2d12f0cdbcbd0a956a9c96d870893cfb.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-35-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-35-1-_jpeg.rf.36021d5b56145ca6ccbb8bbc5b69809e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-35-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-35-1-_jpeg.rf.bbd50c0693511b2b9246d440ae361434.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-35-1-_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-35_jpeg.rf.61bfb7db1a562f9af27812220ee06ec5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-35_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-35_jpeg.rf.d1df1fb35b823f6f7298f2f3aa207803.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-35_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-13-55-35_jpeg.rf.edd6567e2c8c5a15a388c5b0f85b8ab2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-13-55-35_jpeg",
+    "label": "E",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26-1-_jpeg.rf.98d20189d09b91d2744d767829eb1cbc.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26-1-_jpeg.rf.c390bb136c3fcd3ba3b7fb5d67d27fcf.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26-1-_jpeg.rf.c7c8b039223222347d3bedbdb3c1bd0f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26-2-_jpeg.rf.42c4b7c962efb5a920d3e2caf3f203d8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26-2-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26-2-_jpeg.rf.761c755d15fefe872c2ccae7515a7e56.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26-2-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26-2-_jpeg.rf.77c5baa2e7de76edf961acecfe879215.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26-2-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26_jpeg.rf.4c9450f458813100b85857fe666fd2b8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26_jpeg.rf.e23e81fdbb9f84190f92421a79aae903.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-26_jpeg.rf.f7065518df7615ff28532a02ae023583.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-26_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-27_jpeg.rf.3afdcb39b8a147baf3523ce85ec12a00.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-27_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-27_jpeg.rf.acdc7d9722e8b651b1afbca57927794f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-27_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-27_jpeg.rf.c44f88f4ae077bd60cf78cecf39ea0ab.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-27_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-28-1-_jpeg.rf.dbf69403a5b04e5098df0f1cace973c9.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-28-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-28-1-_jpeg.rf.e5c61e551a8bdc7f137a119e929e1de1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-28-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-28_jpeg.rf.2ae373fbeabf5fd4a7328127dc4d943d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-28_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-28_jpeg.rf.5e64f704a030b7b6c0053e0e6a4c1c27.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-28_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-28_jpeg.rf.ea3a017d67de5cf7849e47124ea3665e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-28_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-29-1-_jpeg.rf.0aeeaf10bce067bc06738f0c13e2668d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-29-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-29-1-_jpeg.rf.1cd90cc507dcf99906a975e56da76ddb.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-29-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-29-1-_jpeg.rf.fc9a87d483f05173f782733313091924.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-29-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-29_jpeg.rf.07a5144436d1f900fb978eb9389ccf34.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-29_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-29_jpeg.rf.58f4452b8473ec5fe2b4b5bb9f62d30f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-29_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-29_jpeg.rf.9298c3c5b8b07bd38b511a2ab9f8d691.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-29_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-30-1-_jpeg.rf.3fb36396e31553fcdcd55046ba8ac6e6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-30-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-30-1-_jpeg.rf.7e876ccf1e24991c994d5bab9d8be1d1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-30-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-30-1-_jpeg.rf.ab3b2dec6746eac9a287a93cd5bd5e34.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-30-1-_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-30_jpeg.rf.233979052af3289f4b69284c746fc964.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-30_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-30_jpeg.rf.8790bd5c40314167cc167d3dffb97026.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-30_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-35-30_jpeg.rf.b400671005e8f904377a2cad1d9b5786.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-35-30_jpeg",
+    "label": "F",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-39-58-1-_jpeg.rf.3e3d6fa36dda55a5c4d6d90201fb0385.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-39-58-1-_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-39-58-2-_jpeg.rf.6ab63d96306f610f052b73e2ee789d74.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-39-58-2-_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-39-58_jpeg.rf.608a3fdf10f9fabe3dabdbcd3370181b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-39-58_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-39-58_jpeg.rf.6b95ec2f0b73e6e18fa4f1fba36a077d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-39-58_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-39-59-1-_jpeg.rf.69111977b80f24343a2ff851db3f5d96.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-39-59-1-_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-39-59_jpeg.rf.a24f452f154c40bef6aaffc1c0ef7c26.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-39-59_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-39-59_jpeg.rf.b122b693f81fb0dccb4babbf709e34f7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-39-59_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-00-1-_jpeg.rf.1d24b937e46b51a5e5444f17533e43b7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-00-1-_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-00_jpeg.rf.9652543368343d819319e34506a37829.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-00_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-00_jpeg.rf.e11181b8fd5c623dc13acc7b326fd177.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-00_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-00_jpeg.rf.ea2eda9f97d0207aea2b6e8fb53ae449.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-00_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-01_jpeg.rf.63fcfb9d478d59bdd8515fc0d158b48c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-01_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-02-1-_jpeg.rf.5dd86dbdadadf2d192ff01ff85cbe91d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-02-1-_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-02-1-_jpeg.rf.dd40f0f81e53c21215875ad51090aa01.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-02-1-_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-02-1-_jpeg.rf.ef34402a3d6df0af5fcfbf66794bba74.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-02-1-_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-02_jpeg.rf.503f9208a7695d00ad7af0276fb4dc68.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-02_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-02_jpeg.rf.d504d2722382d49af7030c3fb3c76b89.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-02_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-40-02_jpeg.rf.f648a080ff9b963d5ab8215d8fea2451.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-40-02_jpeg",
+    "label": "G",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-51-1-_jpeg.rf.89b4b68f198a9ba19a78cb00cb74465f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-51-1-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-51-2-_jpeg.rf.3b4b8e1eaef50cfdc5b35b9b39092220.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-51-2-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-51-2-_jpeg.rf.b8bf326d5981b7231e5ce1d70ffc6176.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-51-2-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-51_jpeg.rf.747f5d89f5e42bd2da6607eccf85a17f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-51_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-52-1-_jpeg.rf.2f37b29a23cb1c37fb9d2299ab2eba21.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-52-1-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-52_jpeg.rf.0e0c0a7171b0b88a7573be461696a12c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-52_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-52_jpeg.rf.3c38deef26fb593743db381404d0cb82.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-52_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-52_jpeg.rf.628e70b1441e11b7fb284424bbf630d3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-52_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-53_jpeg.rf.77649c091341d58e2ed194deb12ffa0d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-53_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-53_jpeg.rf.dcf50d7820db591f0fda7d65f62df319.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-53_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-53_jpeg.rf.f373203c45dd8bfa754aff51da77cc8e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-53_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-54-1-_jpeg.rf.0a739c2e88da1358ec4ad3727a008166.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-54-1-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-54-1-_jpeg.rf.1b0323e0756b9074fb511c982fdae74b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-54-1-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-54-1-_jpeg.rf.d09e8f000fe4543e5973a7bc26e11192.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-54-1-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-54-2-_jpeg.rf.6ad158e97eb540482d4ca0faea02ec29.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-54-2-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-54-2-_jpeg.rf.6d4d267d1eebaa8dd049251075999e24.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-54-2-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-54-2-_jpeg.rf.7f05c9e693c6a24dea6ee18cdba27d80.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-54-2-_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-54_jpeg.rf.34e0f0216f7405dd8ca5c285d490fe27.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-54_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-55_jpeg.rf.8c6eb8b79aeda8702691f010338ee5b2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-55_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-48-55_jpeg.rf.b839681238884553f66ecfdc5efd5db3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-48-55_jpeg",
+    "label": "H",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-48_jpeg.rf.0db072faad38a0904d5888bdf349021f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-48_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-48_jpeg.rf.2f55721ac22175fd80601d8632149a12.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-48_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-48_jpeg.rf.709cf8acbfe25068d077ccb5616cef05.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-48_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-49-1-_jpeg.rf.39e276518c6183bdb98c0374c1b5de46.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-49-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-49-1-_jpeg.rf.640773094833b6b19c8aaa5c43941a82.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-49-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-49-1-_jpeg.rf.ede8c45624621faccb8475c22ab47853.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-49-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-49_jpeg.rf.1a3bd5a5872bc0c14d4e63fe7d5a1351.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-49_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-49_jpeg.rf.44f85ff6c39c29a4dc2bb31d0bc42a1b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-49_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-49_jpeg.rf.86665d2b974d9e446318bd93ac908a30.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-49_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-50-1-_jpeg.rf.4c63296afb3a14615b120fd208f7e23b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-50-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-50-1-_jpeg.rf.5016ae7c4802f5b950f559865bba05ed.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-50-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-50-1-_jpeg.rf.e6d927d83469278185fd806b0bc95641.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-50-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-50_jpeg.rf.1e7b52d181c8fde83a033b883ad1bd55.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-50_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-50_jpeg.rf.78c38a6ccca05a3b1a38eaa85a35e82c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-50_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-50_jpeg.rf.9fe13dd967ee7083e37c6deaf4daf07b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-50_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-51-1-_jpeg.rf.136b4d0b423b5900128fe65f4f1e6e91.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-51-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-51-1-_jpeg.rf.16310e1f486e3f6505ae3b16a8945940.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-51-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-51-1-_jpeg.rf.3b0030df55bc24f264e98effa16a8d09.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-51-1-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-51-2-_jpeg.rf.824a2824db7a5481c02d062251737317.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-51-2-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-51-2-_jpeg.rf.acf44a46aec09cb3cda4d589e2ea9a35.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-51-2-_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-51_jpeg.rf.7a1895264e85cf1af3cea4c859ffe66c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-51_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-52_jpeg.rf.811c459d0be58b058de628f8e5847b0a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-52_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-52_jpeg.rf.ad0ee92721faa351d736de90f89f13a0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-52_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-52_jpeg.rf.ec02760ed6251c2ebfc6602b1d47a8f8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-52_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-53_jpeg.rf.0fa9deb8df51c1a9758de3c78a57acf8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-53_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-53_jpeg.rf.74df2948b9ece66bfd2129e8ecb0f5e8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-53_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-52-53_jpeg.rf.9f709954d2c491d1379b53ebb4d4e760.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-52-53_jpeg",
+    "label": "I",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-56-59-1-_jpeg.rf.2073f82217c33a5761ff25e1823484de.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-56-59-1-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-56-59-1-_jpeg.rf.76a7a2967b1a114e49d92c60ab9ba090.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-56-59-1-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-00-1-_jpeg.rf.d1e42618d6e0bdf2e97a4dbbdb2dad68.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-00-1-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-00-1-_jpeg.rf.ebafa69e6d110dba718f3def76db38a8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-00-1-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-00-2-_jpeg.rf.41b5deed0cd831daef1c700a49d34f4c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-00-2-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-00-2-_jpeg.rf.465adac894be007d53cfc9a09e9825cf.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-00-2-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-00-2-_jpeg.rf.f369ff897163d68c6d4a98afe1bf0bc3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-00-2-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-00_jpeg.rf.0a7c079333d71335b697110fa2bece17.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-00_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-00_jpeg.rf.222bea0ea333fda7781c4ba408db34a3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-00_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-00_jpeg.rf.97e4a5ffe5ddf46e223b1b6c153c6d5e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-00_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-01-1-_jpeg.rf.28b4baebedc071283175114b0499e12d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-01-1-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-15-57-01-1-_jpeg.rf.9bca799440375d621bba74a46e29b965.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-15-57-01-1-_jpeg",
+    "label": "K",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-34_jpeg.rf.4ce6169c303a6aaf61ae25da4d5dad6a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-34_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-34_jpeg.rf.a81b63421b6c21a257659160ef6f0190.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-34_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-35-1-_jpeg.rf.634894d7112ede7122a5330cd8d3dae3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-35-1-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-35-1-_jpeg.rf.b1f85d8c58ff38321c92170881641a97.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-35-1-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-35-2-_jpeg.rf.45584ac04d880631ecdd1e23333d001c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-35-2-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-35-2-_jpeg.rf.885493f45fc44cbe70aefb8db06c2288.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-35-2-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-35-2-_jpeg.rf.deb0a95e008d688a56f6419317e406d8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-35-2-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-35_jpeg.rf.bd594b7bb0302b7df99a2a2a99f85000.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-35_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-36_jpeg.rf.1f16fd712346ad20f96e10cfc700ece8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-36_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-36_jpeg.rf.382b5c264bdb8c958089b515f06e1e8a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-36_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-36_jpeg.rf.daa153863103abd8f9660b1423090f7a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-36_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-37-1-_jpeg.rf.152cfd9471ff99ca004c0c2457e6fb16.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-37-1-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-37-1-_jpeg.rf.53beb9f604307b2b362feb971dc5aab4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-37-1-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-37-1-_jpeg.rf.af75b9d4d491a188c6de01c8573abc7e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-37-1-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-37_jpeg.rf.506bf801c6b2c373c9ac235c61e2c812.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-37_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-37_jpeg.rf.b2b2f6ceae106b7ae48e13f0488d5d6f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-37_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-38-1-_jpeg.rf.91a94704ab4aed3c21c3bf227741a049.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-38-1-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-38-1-_jpeg.rf.da23cc582f136cf2f90be4401074c6ad.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-38-1-_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-38_jpeg.rf.90d254f614ec6dc17b0dc5fae93ce482.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-38_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-38_jpeg.rf.beb00c32bd6a187a29bdeef30dca8a59.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-38_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-39_jpeg.rf.7fa8764f69ac597514c92477d0499714.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-39_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-39_jpeg.rf.c94ceab3d8f75f3946b7469b94a64f7b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-39_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-00-39_jpeg.rf.d9e9aa280248a47dd9500c5a0302dd5f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-00-39_jpeg",
+    "label": "L",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-54-1-_jpeg.rf.129848b39aa560813b5eea27cce2a17e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-54-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-54-1-_jpeg.rf.a5d859dd60f4638bc34ceb36065b02a6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-54-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-54-2-_jpeg.rf.6c505ceab2a4a1aa3ccb6e7387af587f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-54-2-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-54-2-_jpeg.rf.a943b9f439fc8fa6d16f251cc64a38af.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-54-2-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-54_jpeg.rf.ca57b812c025fe9e58490d096cee32b4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-54_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-54_jpeg.rf.ccac468bb9858e63e10c2fa5d4c5ffe0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-54_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-55-1-_jpeg.rf.7312b68be45f18be18d0d57432e043d4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-55-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-55-1-_jpeg.rf.8d13b8de8d6a98412a128e6604ecf84a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-55-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-55_jpeg.rf.5ecee94fc8d359fa7850de687cceb353.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-55_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-55_jpeg.rf.ae20213ed0f0758e58ac2aef7f550867.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-55_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-56-1-_jpeg.rf.427ddd2584c5a6ae184665943a37c65a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-56-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-56-1-_jpeg.rf.f6af5261479504babdd4f28e1ba4b3dc.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-56-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-56_jpeg.rf.fa80bd9ab48369d4c41edb5f37b34c72.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-56_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-57-1-_jpeg.rf.8c5393937ee1a970b322640b12c3362a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-57-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-57-1-_jpeg.rf.b3e3e2373373bb3af5b26eb5c5281503.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-57-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-57-1-_jpeg.rf.cc25fbc27d115a1d12852e559cee14bc.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-57-1-_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-57_jpeg.rf.df43383f70d3b33c78321cf97d381dbf.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-57_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-04-58_jpeg.rf.746a0f3963bea6002e797584c0002dd1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-04-58_jpeg",
+    "label": "M",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-41_jpeg.rf.1644358e99c8b39a708980d3bce799d5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-41_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-42-1-_jpeg.rf.723887c3061b86ddf3bbcf159f95f03a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-42-1-_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-42-1-_jpeg.rf.7c7d446dde072df36c1c546ea01d3c8e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-42-1-_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-42_jpeg.rf.5bf4d9f7f8884fc4edf1bacc10412f24.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-42_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-42_jpeg.rf.cf95e750513a044cc971611e7b485332.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-42_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-42_jpeg.rf.faa9de6fcf2621320dece08756b3fdac.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-42_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-43-1-_jpeg.rf.07855eab1f958689d67cbf192335683c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-43-1-_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-43-1-_jpeg.rf.aa669fdd4b0a8bb3cd8400e9a255c8bf.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-43-1-_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-43_jpeg.rf.a6c0d28308db173f3ef698ca2d2f7273.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-43_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-44-1-_jpeg.rf.21504950c7803be55551827ef6432942.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-44-1-_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-44-1-_jpeg.rf.bbf28c7ec42df0e3b0e29c113fd37e71.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-44-1-_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-44_jpeg.rf.243e3d7af3694c989f990981be541f51.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-44_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-44_jpeg.rf.5ac529206003b8acaa589889afbba112.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-44_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-44_jpeg.rf.7887ac3c6c99ed0c6f72b2defdf0d1eb.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-44_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-45-1-_jpeg.rf.a8812defcf0ae20d3b0e69c8420966c6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-45-1-_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-45_jpeg.rf.1d5422fbf27933ff3e65a843edb07be6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-45_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-08-45_jpeg.rf.4ded9d91a50666d69a03f11ea5ee8ca4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-08-45_jpeg",
+    "label": "N",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-00-1-_jpeg.rf.2bc772a776a0694dc0def5ea740f9b30.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-00-1-_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-00-1-_jpeg.rf.aaab5d98339888c5df113c7f69ee3cda.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-00-1-_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-00-1-_jpeg.rf.ae277811eecfb4d59b432e86f2629aa6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-00-1-_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-00-2-_jpeg.rf.c54e2f8b5803316af501d06d60c56db3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-00-2-_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-00-2-_jpeg.rf.ddbef4c9ba8fdfe024ec7b3f0a9eb5be.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-00-2-_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-00_jpeg.rf.1da1bd5dc00539a66fcc198a3eacc006.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-00_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-00_jpeg.rf.692b9e45572a6a1ad78cd092551f299a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-00_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-00_jpeg.rf.90cbe6458ea4667ae9112fc1a44f8a21.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-00_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-01_jpeg.rf.1606415c8603f664a4c991c884ed5e31.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-01_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-01_jpeg.rf.406462bbc6dcb1435ca4036d5f5805d5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-01_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-01_jpeg.rf.d1500578a1dd9a581ab4a8eac3c72457.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-01_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-02-1-_jpeg.rf.41dfda42b0db16ea24f918d0ba743bcc.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-02-1-_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-02_jpeg.rf.2ee45452d9fc7fc03dbfdb6e4282723e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-02_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-02_jpeg.rf.7129a82abec7666d1b38df8b561e7d66.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-02_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-02_jpeg.rf.f7c8d2bb3e2d5554460e02e6168cff88.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-02_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-03-1-_jpeg.rf.19b8760bbeb9bdc88418e02f877498e9.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-03-1-_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-03-1-_jpeg.rf.9fc4249252f50476d15e17f2af9504a2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-03-1-_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-03_jpeg.rf.fc5160d7a940f0c9aa0a2b1866916084.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-03_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-04_jpeg.rf.4b4ce80854288d84ab73e41e5f0478d6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-04_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-04_jpeg.rf.759cd22b8e25efd416780e44cabdb1ec.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-04_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-20-04_jpeg.rf.d0253101af7e484a083837fd93dfff78.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-20-04_jpeg",
+    "label": "O",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-14-1-_jpeg.rf.22e74de1749f1c57eb0d9ec71f98fac6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-14-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-14-1-_jpeg.rf.2ae10c4fe84e8332c40071dca06d7fc2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-14-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-14-1-_jpeg.rf.655967afb487c9925f9169426f27a31c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-14-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-14_jpeg.rf.0dbdb47f7fd7eeeb81bb974f6b9cd7a6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-14_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-14_jpeg.rf.856dacb9b73898d75504bc25a4851cb5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-14_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-14_jpeg.rf.d06e5d1c9ccfe4b04f861661d4c2ca1e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-14_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-15-1-_jpeg.rf.91269c4adb620d378b83598761c630a0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-15-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-15_jpeg.rf.c3c3fa28a827115d79ffdd7a2319c055.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-15_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-16-1-_jpeg.rf.6f11c141e57cac05463bdf59cc35ab96.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-16-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-16-1-_jpeg.rf.f875c51fc71896056bc63a772f1a85d1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-16-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-16_jpeg.rf.3c30edeef6cb18253388f96630392261.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-16_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-16_jpeg.rf.dc6ff9e8995d1b9da43a331554fd94e0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-16_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-17-1-_jpeg.rf.56cc7397bf275c16e104232a2bde0d7b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-17-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-17_jpeg.rf.05c2dba4f0a025c9bb4a0bdcab67fcf5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-17_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-17_jpeg.rf.5664cabb39a74536b7ced74568062ab3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-17_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-18-1-_jpeg.rf.3feb1ff44582c867751c4d3d8e3bfe00.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-18-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-18-1-_jpeg.rf.6e2b02ff868a7f3e4b76d817e34d8b71.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-18-1-_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-18_jpeg.rf.4baa8995d02dafd9109b53d51359482e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-18_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-23-18_jpeg.rf.9762240785106fe175613c440aa44117.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-23-18_jpeg",
+    "label": "P",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-27-03_jpeg.rf.6a337cb4d2d7d7fee790f6f8e2a110f5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-27-03_jpeg",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-27-04_jpeg.rf.45fbdbfd9d23738144a8ae75eb651db0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-27-04_jpeg",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-27-06-1-_jpeg.rf.b6a047d93d88c21b32f0718233c14fb6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-27-06-1-_jpeg",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-27-06_jpeg.rf.79d94a397d59f229b1a49d7e56ef25a3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-27-06_jpeg",
+    "label": "Q",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-44-1-_jpeg.rf.48a9084bfa89682b368f583ac9ff1483.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-44-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-44-1-_jpeg.rf.8a206fbf8c6bb46207acf1ab0140376c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-44-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-44_jpeg.rf.c3d1294eeace322439b59239e9d66df1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-44_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-45-1-_jpeg.rf.14a6ad955eab53d5261a56e8864bea2b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-45-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-45-1-_jpeg.rf.151a4a330533e77165f808469cfb7185.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-45-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-45-1-_jpeg.rf.5cd306232000359a0e0cd35396f6045d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-45-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-45_jpeg.rf.2652d7673db769262e351819be8e816f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-45_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-45_jpeg.rf.7545c876907c2b20577a7ba1044cd066.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-45_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-45_jpeg.rf.f4e16ec0f609fb11dced939b11dfe361.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-45_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-46-1-_jpeg.rf.50aa1c1616c33d4f458f8f28c7537b2c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-46-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-46-1-_jpeg.rf.cd6e41e8f7615c4f7c16f7b9ae3228bd.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-46-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-46-1-_jpeg.rf.ef5af316ba0747f1af805ebe4296c9ad.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-46-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-46_jpeg.rf.d83246a2022c8692fbe3ee30fb5f12cc.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-46_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-47-1-_jpeg.rf.0a88d830a696bd17b97074fd714573a2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-47-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-47-1-_jpeg.rf.623b9ded3185c4711132eb0b0f239b54.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-47-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-47-1-_jpeg.rf.76f1a01f2308364ac9eac42e0629cf70.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-47-1-_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-47_jpeg.rf.85ad5478dd4a7b43489ef77a2f26d67c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-47_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-47_jpeg.rf.bb499de10ad6b53e6e3516816bbed93a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-47_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-48_jpeg.rf.5c55c45f4a382084b05302da3a7b0048.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-48_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-48_jpeg.rf.d3b7f1234e65b7780bf79df7afb6b3a0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-48_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-49_jpeg.rf.0a2d5047e326bf5e7c10dfc5ce226e87.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-49_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-49_jpeg.rf.a8ba0c826bca1f139bc533aef51b899e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-49_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-32-49_jpeg.rf.db8550c7b5dda065e2ea61d91f1b62f4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-32-49_jpeg",
+    "label": "R",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-54_jpeg.rf.4f2c85d856495ff9473e34344e68cb2e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-54_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-56-1-_jpeg.rf.2146dc1f19dc484ea91a284ed85fcd54.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-56-1-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-56-1-_jpeg.rf.9af911efa4a12537b6ba5a5e940b2e51.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-56-1-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-56_jpeg.rf.92aef49fafada4e5dfce3650f574ab1e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-56_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-57-1-_jpeg.rf.86fe744e9955a24e4cd329c0f1598170.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-57-1-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-57-1-_jpeg.rf.8c3cfaf424c9c653181d58d988852674.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-57-1-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-57_jpeg.rf.59dbd0a10dfecb2e54dfd3d3366996e4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-57_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-58-1-_jpeg.rf.150e080e75ca4cb836f028d0a7522c75.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-58-1-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-58-1-_jpeg.rf.bfa1b46dbd9b0f4c3a50d483f0102a5f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-58-1-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-58-2-_jpeg.rf.582ace0b4094c52576f9dfb927bbf9cc.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-58-2-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-58-2-_jpeg.rf.5cc9d0d5bb9b5b8250190ec1bdc4a897.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-58-2-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-58-2-_jpeg.rf.d3458157f857cf89f6b7ee65ebdea540.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-58-2-_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-58_jpeg.rf.62bdda445656b4a51e981cc65805b1f9.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-58_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-58_jpeg.rf.822a6073174ff5903749dea04bc5b233.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-58_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-59_jpeg.rf.3069ceb6427a49d5c93aa91d47effd3d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-59_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-59_jpeg.rf.5cb461c9ed1c73b4122fb78b111599f1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-59_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-35-59_jpeg.rf.fdf36ddef88fd2485b0701a3c5a9a4a4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-35-59_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-36-00_jpeg.rf.17d1daf5e9e7b0e52ceefae957b204e3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-36-00_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-36-00_jpeg.rf.baa29eaf488321de5b0955205786f019.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-36-00_jpeg",
+    "label": "S",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-31-1-_jpeg.rf.1ccbf5c160e9bd9b6e759d8f90fbf699.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-31-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-31-1-_jpeg.rf.3d3e4eecc4b09e746bdbacc795820661.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-31-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-31-1-_jpeg.rf.f921bfbec7db448ef18a8e5f41b9fffd.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-31-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-34-1-_jpeg.rf.0421674a1f44e56343f8f3e200c5d0ab.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-34-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-34-1-_jpeg.rf.5d37506154b7696399a6dee32594698c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-34-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-34-1-_jpeg.rf.a4ade9fb03a4c210548b118351b502f7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-34-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-34_jpeg.rf.457970d7ce3399342186db0bde05bb7f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-34_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-34_jpeg.rf.7956158eb7139f52dff3723484f38b34.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-34_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-34_jpeg.rf.e4586b6bb9e0ee76300aab2d9cc19631.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-34_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-35-1-_jpeg.rf.114b0b38deef2bbeaf6fe35db53d1e23.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-35-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-35-1-_jpeg.rf.b451f5877afe9d43c317b4a005131df4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-35-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-35-1-_jpeg.rf.e91495e169ec6b1b98151e74b348c4c4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-35-1-_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-35_jpeg.rf.4413e87f4cd029fcd6089f4343df7ba8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-35_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-35_jpeg.rf.7925da375254b97edc0f1c1fabe3a90b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-35_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-55-35_jpeg.rf.ba7a40010c21ec9c510d85b558c0f0ba.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-55-35_jpeg",
+    "label": "T",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-58-23-1-_jpeg.rf.79f303fb191eb1bfa5456c52f07c2418.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-58-23-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-58-23-1-_jpeg.rf.8a7232dd117e851cec824c57eff3d039.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-58-23-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-58-23-1-_jpeg.rf.e9fd1732fac762a43c0ff94f8e076be1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-58-23-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-58-23-2-_jpeg.rf.8afd824111957cad9fbded9d0a132f0f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-58-23-2-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-58-23_jpeg.rf.2145713a03c73c4838dc188316f5a729.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-58-23_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-16-58-23_jpeg.rf.d9a4e47ca84da219aa5b7101571693c3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-16-58-23_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-08-53_jpeg.rf.9240b3d48036ea309323f8cf4b14a1ab.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-08-53_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-08-53_jpeg.rf.9baa2072cf0ea07df54f5270749e5330.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-08-53_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-24_jpeg.rf.18cda7cb39f5b614c112148ac2f6a8b6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-24_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-24_jpeg.rf.b0196f61047f4814f43bba91d9b2a183.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-24_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-26-1-_jpeg.rf.44d270112ef8cc5553ff9eb7ec608e61.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-26-1-_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-26-1-_jpeg.rf.68bf1445f9b8b9751bb2910f6c949923.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-26-1-_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-26-1-_jpeg.rf.f89e81e8deae83944fa6ae096ae549bf.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-26-1-_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-26_jpeg.rf.3d8ff704e7b9c0c9cea1575d94ca4943.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-26_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-26_jpeg.rf.b80e52e25632cad551015a6458e8219e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-26_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-26_jpeg.rf.db20ceb4c41b59a9c054f6feba43e8ee.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-26_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-27_jpeg.rf.a030a801470e108d7344b98d78a3e2c4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-27_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-27_jpeg.rf.a8df763940dce7669b099773f6dac6ac.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-27_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-27_jpeg.rf.c28a76a43d57dd4a4db8113cd536a131.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-27_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-28_jpeg.rf.26ccec77f67c62c866189d5856ecd791.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-28_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-30_jpeg.rf.31ab6d2019d6dd3bfa7e10e617331e99.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-30_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-30_jpeg.rf.ba89a00dbf46e045e58ff906a9f7a14c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-30_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-30_jpeg.rf.d99dd500169ea026bb6f54086af461a7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-30_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-31_jpeg.rf.4f50d72f5afd34d8f244295fb180530f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-31_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-31_jpeg.rf.7de47b59c7b98c2c3f904d87de41453e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-31_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-33-1-_jpeg.rf.0387f6d1ccd48dc228cd003e7511b73a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-33-1-_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-33-1-_jpeg.rf.92cc8ddbe505f46401681a5a455d1bc1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-33-1-_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-33-1-_jpeg.rf.bf714b50a696b8645c5ed06b42fcdf04.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-33-1-_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-33_jpeg.rf.4a29df1e297b332040aa9fabcde3de36.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-33_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-33_jpeg.rf.81cd36dc9270e7c36ebfdc7a2053127f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-33_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-33_jpeg.rf.d1a0f55713c1a7d0eccdce6b86c2296e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-33_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-34_jpeg.rf.5e83f75863f2024d26e4909daaff740a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-34_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-34_jpeg.rf.6a1946c4c6b857ad1a41b2f65b57d6ce.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-34_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-26-34_jpeg.rf.9c620aee73817d933d54dccaf05999b7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-26-34_jpeg",
+    "label": "U",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-01-1-_jpeg.rf.098ddc44228f4481dd2a66a387754646.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-01-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-01-1-_jpeg.rf.66e9c8499db71df54059ed7867acbedd.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-01-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-01-1-_jpeg.rf.e96aa31bc4f6f3a1f9cf5523aa761216.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-01-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-01_jpeg.rf.4f4e3282a97120b0384e4328951af2f2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-01_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-01_jpeg.rf.7118fb4c3f5bd21255ee9ac667053b5e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-01_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-02-1-_jpeg.rf.372b4eaa7267f21eb72d639431c9c2a8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-02-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-02-1-_jpeg.rf.7f1e5446d82823c547a12446c697bf1c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-02-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-02-1-_jpeg.rf.b4348d8467547e46a90ed60b3f463549.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-02-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-02_jpeg.rf.734dca98417b23af8907eb7711ec8943.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-02_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-02_jpeg.rf.743efbdbd0811e435e071a3a2efcaaeb.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-02_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-02_jpeg.rf.f9486ec8568d0c9f497488716b08cffc.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-02_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-03-1-_jpeg.rf.1b7441961b0d77c808bfb4b900d10e06.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-03-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-03-1-_jpeg.rf.4f1874e3e5e6006d42c67a3a2c81b73c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-03-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-03-1-_jpeg.rf.f63cdac9e9bf4de2275cf98b6a0e51c9.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-03-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-03_jpeg.rf.5b0c6c4ad4515a78d23bb7a8705b1737.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-03_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-03_jpeg.rf.92e328fd2df91ee64f2f40d3d15821c0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-03_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-03_jpeg.rf.dba5a6ad0d81efee3e4c3328df504954.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-03_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-04-1-_jpeg.rf.388d6392080744db26fde5d856e3a0a0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-04-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-04-1-_jpeg.rf.8b251d1e3df1162649b607db590467d5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-04-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-04-1-_jpeg.rf.ff63c704cf6c9b144dee2df2604c6b07.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-04-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-04_jpeg.rf.229217ede83c126a72176b1cdd2fe3ac.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-04_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-04_jpeg.rf.7d4a540f0a737541fdd4151bb991f549.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-04_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-04_jpeg.rf.a13b305f59e7381b11d166f96fe5bbc3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-04_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-05-1-_jpeg.rf.847b8fb7dd1a1debfd3feb112ecb4c1b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-05-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-05-1-_jpeg.rf.b7cb9c4640726175ef4443dec2fcc298.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-05-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-05-1-_jpeg.rf.e83be408a2567e607833a04b1f818f13.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-05-1-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-05_jpeg.rf.53eac79928d032bf7203a24d5a1a2740.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-05_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-30-05_jpeg.rf.5466ad4305211291b3de7e659c64f5df.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-30-05_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-28_jpeg.rf.e7694025c39e0f5b4f12adc634c4b141.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-28_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-29_jpeg.rf.27dfd081aabedf14132400d189e373b6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-29_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-30-1-_jpeg.rf.2885b6a32931611bb5dc0940be5a76f3.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-30-1-_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-30-1-_jpeg.rf.f265c436744aa5b7a33c2534b03ce7b5.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-30-1-_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-30_jpeg.rf.3f5d119c7e2a47adfc68df495765fb5a.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-30_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-30_jpeg.rf.77ea5ac925d132d62e390a66564ba0ee.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-30_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-30_jpeg.rf.f0a56f0ca4c025bda540863fb707d9d9.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-30_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-31-1-_jpeg.rf.5b77fe5de9f616a85dd176af5c5b148c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-31-1-_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-31_jpeg.rf.6562b1b54ce1a50159b26ecb38d30464.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-31_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-31_jpeg.rf.cfb831bc7ddac0e5c915d7d509d4a532.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-31_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-32-1-_jpeg.rf.0303b63e91ed08b329746cdd63ac649d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-32-1-_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-32_jpeg.rf.01166366501793da9dbbc65319c4b5d6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-32_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-32_jpeg.rf.39d877bd0e2b95c781ac946b20cb48e0.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-32_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-32_jpeg.rf.42e629b31470f0e7c8f3e5e1483d5f54.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-32_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-32_jpeg.rf.94ccda973c010b0876bf050f653599e6.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-32_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-32_jpeg.rf.e27f0bc494d6357bde11024ab06f8697.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-32_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-33-3-_jpeg.rf.142c4582a9edd1b32c052e47b773cc59.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-33-3-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-33-3-_jpeg.rf.ae4c152625f0e2d29d7610359a83f62f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-33-3-_jpeg",
+    "label": "W",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-33_jpeg.rf.3e877279a4182c4b7fe674d4f17f700d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-33_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-31-33_jpeg.rf.a4cec01769cd5aba3a00ba18b2e4a17c.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-31-33_jpeg",
+    "label": "X",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-41_jpeg.rf.f037a786b1272f081ef48020348e2c5e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-41_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-43-1-_jpeg.rf.d2b0d8acbd830e88d79170e02ffa9d70.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-43-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-43-2-_jpeg.rf.80459bf00eac11d7120804d66440ccf2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-43-2-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-43-2-_jpeg.rf.d9e93730b6e02f599c1ff9c3be868e9f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-43-2-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-43-2-_jpeg.rf.f5b959b8af25bbbd6e9fdc71f5564152.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-43-2-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-43_jpeg.rf.994390eb0a2ad9ba4337c3f1e0db61a4.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-43_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-43_jpeg.rf.c7844189f33ba47b9719274c64a52eef.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-43_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-44-1-_jpeg.rf.3d56c6f51dc8f619e758881b515706c2.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-44-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-44-1-_jpeg.rf.550ad22dbd5b66c2329d96856010de67.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-44-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-44-1-_jpeg.rf.dca24ca89f0c9950625379da192d9e02.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-44-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-44_jpeg.rf.161979dc7818e06c6dc1dff9c0f096f1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-44_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-44_jpeg.rf.b1df8119b3ebe9ab63e764131fd04457.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-44_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-45-1-_jpeg.rf.9c265b7c7ba35dd4cc97c09a9d0ca8d1.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-45-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-45-1-_jpeg.rf.cf2cba5e3316e63eb91af49468a2835b.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-45-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-45_jpeg.rf.1db85e20bd08a22a8c2e989d4803aef7.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-45_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-45_jpeg.rf.3506ed56e4f5f4245a8af4ca632d8ae8.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-45_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-45_jpeg.rf.e2d27a80a06259e187b762214a01727d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-45_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-46-1-_jpeg.rf.8ddbbf0cec2a5992fe336d14aaabb92f.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-46-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-46-1-_jpeg.rf.d1910d05e7477ca999485e1ca201c422.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-46-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-46-1-_jpeg.rf.e29848161a833d34b7e29d63d7f14453.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-46-1-_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-46_jpeg.rf.2e56f09bbc5a2cebf3085fa6e28f04fd.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-46_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-46_jpeg.rf.855e3a2743837e7f646255ef4f4c1c7d.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-46_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\train\\images\\WhatsApp-Image-2023-07-31-at-17-32-46_jpeg.rf.d9bf9456fd80c43082b09614bd7b1d7e.jpg",
+    "source": "WhatsApp-Image-2023-07-31-at-17-32-46_jpeg",
+    "label": "Y",
+    "split": "train"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\Captura-de-pantalla-2023-07-31-171340-1-_png.rf.f0d0c3e17d54d613b5e200b3ca9d6f88.jpg",
+    "source": "Captura-de-pantalla-2023-07-31-171340-1-_png",
+    "label": "T",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\Captura-de-pantalla-2023-07-31-171452_png.rf.75079a18a030f87cd6fd94a325d3f343.jpg",
+    "source": "Captura-de-pantalla-2023-07-31-171452_png",
+    "label": "T",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_180710_jpg.rf.f6b9cf4de855799e32de0eb1445351d8.jpg",
+    "source": "IMG_20230731_180710_jpg",
+    "label": "A",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181052_jpg.rf.54f160a3fd1724e09a226f48b3578060.jpg",
+    "source": "IMG_20230731_181052_jpg",
+    "label": "B",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181213_jpg.rf.cc5a02f7350d21038fc3f10758dadc3f.jpg",
+    "source": "IMG_20230731_181213_jpg",
+    "label": "C",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181215_jpg.rf.ca3327844e8c4d2929f460a648e7e1a2.jpg",
+    "source": "IMG_20230731_181215_jpg",
+    "label": "C",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181236_jpg.rf.55941eb17507c3c28608b8b7461ad01b.jpg",
+    "source": "IMG_20230731_181236_jpg",
+    "label": "C",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181238_jpg.rf.db2d2a72f5d6d40e2c1a0f0b923fc6fb.jpg",
+    "source": "IMG_20230731_181238_jpg",
+    "label": "C",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181241_jpg.rf.95708e983237d057a8a84cc23de578ed.jpg",
+    "source": "IMG_20230731_181241_jpg",
+    "label": "C",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181415_jpg.rf.69452a0fb1d6fd2609e82ef87abef69e.jpg",
+    "source": "IMG_20230731_181415_jpg",
+    "label": "S",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181440_jpg.rf.87eb9adfe0425729fe91cadb68d68173.jpg",
+    "source": "IMG_20230731_181440_jpg",
+    "label": "S",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181606_jpg.rf.84b30f93037d3c548c03706cc4cbdf77.jpg",
+    "source": "IMG_20230731_181606_jpg",
+    "label": "D",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181609_jpg.rf.34440c383d2bc609f9e5ae791619031f.jpg",
+    "source": "IMG_20230731_181609_jpg",
+    "label": "D",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181611_jpg.rf.8f521f3f2802c5086c5bac4183e3db42.jpg",
+    "source": "IMG_20230731_181611_jpg",
+    "label": "D",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181821_jpg.rf.06082224b0c34a71eb2955491224ea09.jpg",
+    "source": "IMG_20230731_181821_jpg",
+    "label": "E",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181838_jpg.rf.7fbfbd585bf673b0c6e2a2e8a416965a.jpg",
+    "source": "IMG_20230731_181838_jpg",
+    "label": "E",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181840_jpg.rf.6be1cf6239f1bf2a2a37d8154cceadd6.jpg",
+    "source": "IMG_20230731_181840_jpg",
+    "label": "E",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_181851_jpg.rf.e1f845075a8a7607ef5da952a64d1ba6.jpg",
+    "source": "IMG_20230731_181851_jpg",
+    "label": "E",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_182013_jpg.rf.98df811c4bcbe6345e2464e67378ef44.jpg",
+    "source": "IMG_20230731_182013_jpg",
+    "label": "I",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_182157_jpg.rf.9539653e0ca15ff2654febe2d2a8533b.jpg",
+    "source": "IMG_20230731_182157_jpg",
+    "label": "L",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_182535_jpg.rf.5275470e2bbb5886151dcb7a17cf09d0.jpg",
+    "source": "IMG_20230731_182535_jpg",
+    "label": "L",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_182956_jpg.rf.3b2d45e788514537a73d9e8575a5493c.jpg",
+    "source": "IMG_20230731_182956_jpg",
+    "label": "O",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_183021_jpg.rf.2624dcc53d7f799f62d77b05921ca000.jpg",
+    "source": "IMG_20230731_183021_jpg",
+    "label": "O",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_183157_jpg.rf.c740aa68818ef8a357749cb84b5c1278.jpg",
+    "source": "IMG_20230731_183157_jpg",
+    "label": "R",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_183220_jpg.rf.2f6e188ecef205e6d3ddcdd08fee946d.jpg",
+    "source": "IMG_20230731_183220_jpg",
+    "label": "R",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_20230731_183424_jpg.rf.8d74d47b67fe7e2d23b1e4a785c8ba01.jpg",
+    "source": "IMG_20230731_183424_jpg",
+    "label": "T",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_7679_PNG.rf.d7169a372ea5a5b204cab141014d5423.jpg",
+    "source": "IMG_7679_PNG",
+    "label": "B",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_7694_PNG.rf.597c4002609ba42ef870b112b08b2dd7.jpg",
+    "source": "IMG_7694_PNG",
+    "label": "D",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_7719_PNG.rf.cb67dfcaee87a8119aeb9bfd11ee3c27.jpg",
+    "source": "IMG_7719_PNG",
+    "label": "H",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\valid\\images\\IMG_7774_PNG.rf.72ab9c027969b88496cf2845aefd2a0f.jpg",
+    "source": "IMG_7774_PNG",
+    "label": "S",
+    "split": "valid"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_180654_jpg.rf.7cda53ef132fa3ecbe4294fa9d879abc.jpg",
+    "source": "IMG_20230731_180654_jpg",
+    "label": "A",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_180701_jpg.rf.7bc92a4a002cee02d92e3b4940761424.jpg",
+    "source": "IMG_20230731_180701_jpg",
+    "label": "A",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_180714_jpg.rf.d42b08e6d333a5955885fc9026119288.jpg",
+    "source": "IMG_20230731_180714_jpg",
+    "label": "A",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_181041_jpg.rf.2b3489616692012923e8a75b7590e78a.jpg",
+    "source": "IMG_20230731_181041_jpg",
+    "label": "B",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_181049_jpg.rf.1f8fde5b3070e6bb912bb24e5b4bb1a3.jpg",
+    "source": "IMG_20230731_181049_jpg",
+    "label": "B",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_181211_jpg.rf.7f3b8495773bca2126dece28db13e8d1.jpg",
+    "source": "IMG_20230731_181211_jpg",
+    "label": "C",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_181600_jpg.rf.7f98053fc12d350be2059d77120445f0.jpg",
+    "source": "IMG_20230731_181600_jpg",
+    "label": "D",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_181614_jpg.rf.0b42a27841de1271fc355ad3c1a7c6c8.jpg",
+    "source": "IMG_20230731_181614_jpg",
+    "label": "D",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_181823_jpg.rf.de48c139e1337279eb23ee902ba1639f.jpg",
+    "source": "IMG_20230731_181823_jpg",
+    "label": "E",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_182204_jpg.rf.631af775566007b528c592cf9e437693.jpg",
+    "source": "IMG_20230731_182204_jpg",
+    "label": "L",
+    "split": "test"
+  },
+  {
+    "path": "work\\lsec-dataset\\test\\images\\IMG_20230731_183000_jpg.rf.98cdeac4c3aa59e50e724c6ac723e584.jpg",
+    "source": "IMG_20230731_183000_jpg",
+    "label": "O",
+    "split": "test"
+  }
+]
